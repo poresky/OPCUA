@@ -1,0 +1,43 @@
+[2021-06-17 22:55:48.823] [exthost] [info] extension host started
+[2021-06-17 22:55:48.905] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"extensionId":{"value":"vscode.debug-auto-launch","_lower":"vscode.debug-auto-launch"},"activationEvent":"*"}
+[2021-06-17 22:55:48.905] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/ubuntu/.vscode-server/bin/b4c1bd0a9b03c749ea011b06c6d2676c8091a70c/extensions/debug-auto-launch/dist/extension
+[2021-06-17 22:55:48.914] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"extensionId":{"value":"vscode.github","_lower":"vscode.github"},"activationEvent":"*"}
+[2021-06-17 22:55:48.914] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/ubuntu/.vscode-server/bin/b4c1bd0a9b03c749ea011b06c6d2676c8091a70c/extensions/git/dist/main
+[2021-06-17 22:55:48.986] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode.cpptools {"startup":true,"extensionId":{"value":"ms-vscode.cpptools","_lower":"ms-vscode.cpptools"},"activationEvent":"*"}
+[2021-06-17 22:55:48.986] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/ubuntu/.vscode-server/extensions/ms-vscode.cpptools-1.4.1/dist/main
+[2021-06-17 22:55:49.475] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode.js-debug {"startup":false,"extensionId":{"value":"ms-vscode.js-debug","_lower":"ms-vscode.js-debug"},"activationEvent":"onCommand:extension.js-debug.clearAutoAttachVariables"}
+[2021-06-17 22:55:49.475] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/ubuntu/.vscode-server/bin/b4c1bd0a9b03c749ea011b06c6d2676c8091a70c/extensions/ms-vscode.js-debug/src/extension.js
+[2021-06-17 22:55:49.999] [exthost] [info] ExtensionService#_doActivateExtension vscode.github {"startup":false,"extensionId":{"value":"vscode.github","_lower":"vscode.github"},"activationEvent":"*"}
+[2021-06-17 22:55:49.999] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/ubuntu/.vscode-server/bin/b4c1bd0a9b03c749ea011b06c6d2676c8091a70c/extensions/github/dist/extension.js
+[2021-06-17 22:55:54.170] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":false,"extensionId":{"value":"vscode.emmet","_lower":"vscode.emmet"},"activationEvent":"onStartupFinished"}
+[2021-06-17 22:55:54.172] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/ubuntu/.vscode-server/bin/b4c1bd0a9b03c749ea011b06c6d2676c8091a70c/extensions/emmet/dist/node/emmetNodeMain
+[2021-06-17 22:55:54.209] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":false,"extensionId":{"value":"vscode.merge-conflict","_lower":"vscode.merge-conflict"},"activationEvent":"onStartupFinished"}
+[2021-06-17 22:55:54.209] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/ubuntu/.vscode-server/bin/b4c1bd0a9b03c749ea011b06c6d2676c8091a70c/extensions/merge-conflict/dist/mergeConflictMain
+[2021-06-17 22:55:54.221] [exthost] [info] ExtensionService#_doActivateExtension vscode.testing-editor-contributions {"startup":false,"extensionId":{"value":"vscode.testing-editor-contributions","_lower":"vscode.testing-editor-contributions"},"activationEvent":"onStartupFinished"}
+[2021-06-17 22:55:54.221] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/ubuntu/.vscode-server/bin/b4c1bd0a9b03c749ea011b06c6d2676c8091a70c/extensions/testing-editor-contributions/dist/extension.js
+[2021-06-17 22:55:54.224] [exthost] [info] eager extensions activated
+[2021-06-17 22:56:19.851] [exthost] [info] extension host terminating: received terminate message from renderer
+[2021-06-17 22:56:19.871] [exthost] [error] TypeError: Cannot read property 'timeTelemetryCollector' of undefined
+	at Object.deactivate (/home/ubuntu/.vscode-server/extensions/ms-vscode.cpptools-1.4.1/dist/main.js:41913:13)
+	at Object.deactivate (/home/ubuntu/.vscode-server/extensions/ms-vscode.cpptools-1.4.1/dist/main.js:46873:27)
+	at f._deactivate (/home/ubuntu/.vscode-server/bin/b4c1bd0a9b03c749ea011b06c6d2676c8091a70c/out/vs/server/remoteExtensionHostProcess.js:89:11244)
+	at /home/ubuntu/.vscode-server/bin/b4c1bd0a9b03c749ea011b06c6d2676c8091a70c/out/vs/server/remoteExtensionHostProcess.js:89:9958
+	at Array.map (<anonymous>)
+	at f.deactivateAll (/home/ubuntu/.vscode-server/bin/b4c1bd0a9b03c749ea011b06c6d2676c8091a70c/out/vs/server/remoteExtensionHostProcess.js:89:9946)
+	at E.terminate (/home/ubuntu/.vscode-server/bin/b4c1bd0a9b03c749ea011b06c6d2676c8091a70c/out/vs/server/remoteExtensionHostProcess.js:93:725)
+	at u (/home/ubuntu/.vscode-server/bin/b4c1bd0a9b03c749ea011b06c6d2676c8091a70c/out/vs/server/remoteExtensionHostProcess.js:103:31661)
+	at /home/ubuntu/.vscode-server/bin/b4c1bd0a9b03c749ea011b06c6d2676c8091a70c/out/vs/server/remoteExtensionHostProcess.js:103:29725
+	at l.fire (/home/ubuntu/.vscode-server/bin/b4c1bd0a9b03c749ea011b06c6d2676c8091a70c/out/vs/server/remoteExtensionHostProcess.js:57:1835)
+	at E.fire (/home/ubuntu/.vscode-server/bin/b4c1bd0a9b03c749ea011b06c6d2676c8091a70c/out/vs/server/remoteExtensionHostProcess.js:65:15632)
+	at t._receiveMessage (/home/ubuntu/.vscode-server/bin/b4c1bd0a9b03c749ea011b06c6d2676c8091a70c/out/vs/server/remoteExtensionHostProcess.js:65:20890)
+	at /home/ubuntu/.vscode-server/bin/b4c1bd0a9b03c749ea011b06c6d2676c8091a70c/out/vs/server/remoteExtensionHostProcess.js:65:17776
+	at l.fire (/home/ubuntu/.vscode-server/bin/b4c1bd0a9b03c749ea011b06c6d2676c8091a70c/out/vs/server/remoteExtensionHostProcess.js:57:1835)
+	at c.acceptChunk (/home/ubuntu/.vscode-server/bin/b4c1bd0a9b03c749ea011b06c6d2676c8091a70c/out/vs/server/remoteExtensionHostProcess.js:65:12993)
+	at /home/ubuntu/.vscode-server/bin/b4c1bd0a9b03c749ea011b06c6d2676c8091a70c/out/vs/server/remoteExtensionHostProcess.js:65:12341
+	at l.fire (/home/ubuntu/.vscode-server/bin/b4c1bd0a9b03c749ea011b06c6d2676c8091a70c/out/vs/server/remoteExtensionHostProcess.js:57:1835)
+	at /home/ubuntu/.vscode-server/bin/b4c1bd0a9b03c749ea011b06c6d2676c8091a70c/out/vs/server/remoteExtensionHostProcess.js:103:19073
+	at afterWrite (internal/streams/writable.js:466:5)
+	at onwrite (internal/streams/writable.js:446:7)
+	at InflateRaw.afterTransform (internal/streams/transform.js:103:3)
+	at Zlib.processCallback (zlib.js:586:8)
+[2021-06-17 22:56:20.873] [exthost] [info] exiting with code 0

@@ -1,0 +1,30 @@
+[2021-05-13 17:30:51.207] [remoteagent] [info] 
+
+*
+* Visual Studio Code Server
+*
+* Reminder: You may only use this software with Visual Studio family products,
+* as described in the license https://aka.ms/vscode-remote/license
+*
+
+
+[2021-05-13 17:30:51.207] [remoteagent] [info] Extension host agent started.
+[2021-05-13 17:30:51.473] [remoteagent] [info] [127.0.0.1][275254c3][ManagementConnection] New connection established.
+[2021-05-13 17:30:51.512] [remoteagent] [info] [127.0.0.1][5c5a2d12][ExtensionHostConnection] New connection established.
+[2021-05-13 17:30:51.747] [remoteagent] [info] [127.0.0.1][5c5a2d12][ExtensionHostConnection] <409818> Launched Extension Host Process.
+[2021-05-13 17:30:53.767] [remoteagent] [info] Installing extension: ms-python.python
+[2021-05-13 17:30:54.654] [remoteagent] [info] Downloaded extension: ms-python.python undefined
+[2021-05-13 17:30:59.472] [remoteagent] [info] Extracted extension to /home/ubuntu/.vscode-server/extensions/.115e1f1c-3327-4bd5-bcf9-7af6068d1921: ms-python.python
+[2021-05-13 17:30:59.500] [remoteagent] [info] Renamed to /home/ubuntu/.vscode-server/extensions/ms-python.python-2021.5.829140558
+[2021-05-13 17:30:59.503] [remoteagent] [info] Installation completed. ms-python.python
+[2021-05-13 17:30:59.855] [remoteagent] [info] Installing extension: ms-python.vscode-pylance
+[2021-05-13 17:31:00.597] [remoteagent] [info] Downloaded extension: ms-python.vscode-pylance undefined
+[2021-05-13 17:31:03.472] [remoteagent] [info] Extracted extension to /home/ubuntu/.vscode-server/extensions/.bd7742de-4522-42c9-a9fb-6576aca40c43: ms-python.vscode-pylance
+[2021-05-13 17:31:03.494] [remoteagent] [info] Renamed to /home/ubuntu/.vscode-server/extensions/ms-python.vscode-pylance-2021.5.1
+[2021-05-13 17:31:03.496] [remoteagent] [info] Installation completed. ms-python.vscode-pylance
+[2021-05-13 17:31:03.566] [remoteagent] [info] Extensions installed successfully: ms-python.vscode-pylance
+[2021-05-13 17:31:03.574] [remoteagent] [info] Extensions installed successfully: ms-python.python
+[2021-05-13 18:09:22.162] [remoteagent] [info] [127.0.0.1][275254c3][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[2021-05-13 18:09:23.188] [remoteagent] [info] [127.0.0.1][5c5a2d12][ExtensionHostConnection] <409818> Extension Host Process exited with code: 0, signal: null.
+[2021-05-13 18:09:23.188] [remoteagent] [info] Last EH closed, waiting before shutting down
+[2021-05-13 18:14:23.190] [remoteagent] [info] Last EH closed, shutting down

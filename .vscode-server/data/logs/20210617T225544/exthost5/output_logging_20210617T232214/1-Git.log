@@ -1,0 +1,345 @@
+Looking for git in: git
+Using git 2.25.1 from git
+> git rev-parse --git-dir
+Open repository: /home/ubuntu/ChrisServer/open62541
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/ubuntu/ChrisServer/open62541/.git/refs/remotes/origin/master', is most likely packed.
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git show --textconv :build/authenticationServer.c
+> git ls-files --stage -- /home/ubuntu/ChrisServer/open62541/build/authenticationServer.c
+> git rev-parse --git-dir
+Open repository: /home/ubuntu/ChrisServer/open62541/deps/mdnsd
+> git status -z -u
+> git symbolic-ref --short HEAD
+fatal: ref HEAD is not a symbolic ref
+> git rev-parse HEAD
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git rev-parse --git-dir
+Open repository: /home/ubuntu/ChrisServer/open62541/deps/ua-nodeset
+> git status -z -u
+> git symbolic-ref --short HEAD
+fatal: ref HEAD is not a symbolic ref
+> git rev-parse HEAD
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git check-ignore -v -z --stdin
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git show --textconv :build/compile_commands.json
+> git ls-files --stage -- /home/ubuntu/ChrisServer/open62541/build/compile_commands.json
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git show --textconv :build/authenticationServer.c
+> git ls-files --stage -- /home/ubuntu/ChrisServer/open62541/build/authenticationServer.c
+> git show --textconv :build/compile_commands.json
+> git ls-files --stage -- /home/ubuntu/ChrisServer/open62541/build/compile_commands.json
+> git check-ignore -v -z --stdin
+> git show --textconv :build/authenticationServer.c
+> git ls-files --stage -- /home/ubuntu/ChrisServer/open62541/build/authenticationServer.c
+> git show --textconv :build/compile_commands.json
+> git ls-files --stage -- /home/ubuntu/ChrisServer/open62541/build/compile_commands.json
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/ubuntu/ChrisServer/open62541/.git/refs/remotes/origin/master', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/ubuntu/ChrisServer/open62541/.git/refs/remotes/origin/master', is most likely packed.
+> git config --get commit.template
+> git show --textconv :build/authenticationServer.c
+> git ls-files --stage -- /home/ubuntu/ChrisServer/open62541/build/authenticationServer.c
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git show --textconv :build/compile_commands.json
+> git ls-files --stage -- /home/ubuntu/ChrisServer/open62541/build/compile_commands.json
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/ubuntu/ChrisServer/open62541/.git/refs/remotes/origin/master', is most likely packed.
+> git config --get commit.template
+> git show --textconv :build/authenticationServer.c
+> git ls-files --stage -- /home/ubuntu/ChrisServer/open62541/build/authenticationServer.c
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/ubuntu/ChrisServer/open62541/.git/refs/remotes/origin/master', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/ubuntu/ChrisServer/open62541/.git/refs/remotes/origin/master', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/ubuntu/ChrisServer/open62541/.git/refs/remotes/origin/master', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/ubuntu/ChrisServer/open62541/.git/refs/remotes/origin/master', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/ubuntu/ChrisServer/open62541/.git/refs/remotes/origin/master', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/ubuntu/ChrisServer/open62541/.git/refs/remotes/origin/master', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/ubuntu/ChrisServer/open62541/.git/refs/remotes/origin/master', is most likely packed.
+> git config --get commit.template
+> git show --textconv :build/compile_commands.json
+> git ls-files --stage -- /home/ubuntu/ChrisServer/open62541/build/compile_commands.json
+> git show --textconv :build/authenticationServer.c
+> git ls-files --stage -- /home/ubuntu/ChrisServer/open62541/build/authenticationServer.c
+> git show --textconv :build/compile_commands.json
+> git ls-files --stage -- /home/ubuntu/ChrisServer/open62541/build/compile_commands.json
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/ubuntu/ChrisServer/open62541/.git/refs/remotes/origin/master', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/ubuntu/ChrisServer/open62541/.git/refs/remotes/origin/master', is most likely packed.
+> git config --get commit.template
+> git show --textconv :build/authenticationServer.c
+> git ls-files --stage -- /home/ubuntu/ChrisServer/open62541/build/authenticationServer.c
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/ubuntu/ChrisServer/open62541/.git/refs/remotes/origin/master', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/ubuntu/ChrisServer/open62541/.git/refs/remotes/origin/master', is most likely packed.
+> git config --get commit.template
+> git show --textconv :plugins/include/open62541/plugin/accesscontrol_default.h
+> git ls-files --stage -- /home/ubuntu/ChrisServer/open62541/plugins/include/open62541/plugin/accesscontrol_default.h
+> git cat-file -s 7f60b1490f94f63aa6aa4567fe1a0c612923302c
+> git show --textconv :build/authenticationServer.c
+> git ls-files --stage -- /home/ubuntu/ChrisServer/open62541/build/authenticationServer.c
+> git show --textconv :build/compile_commands.json
+> git ls-files --stage -- /home/ubuntu/ChrisServer/open62541/build/compile_commands.json
+> git show --textconv :build/authenticationServer.c
+> git ls-files --stage -- /home/ubuntu/ChrisServer/open62541/build/authenticationServer.c
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/ubuntu/ChrisServer/open62541/.git/refs/remotes/origin/master', is most likely packed.
+> git config --get commit.template
+> git show --textconv :build/compile_commands.json
+> git ls-files --stage -- /home/ubuntu/ChrisServer/open62541/build/compile_commands.json
+> git show --textconv :build/authenticationServer.c
+> git ls-files --stage -- /home/ubuntu/ChrisServer/open62541/build/authenticationServer.c
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/ubuntu/ChrisServer/open62541/.git/refs/remotes/origin/master', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/ubuntu/ChrisServer/open62541/.git/refs/remotes/origin/master', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/ubuntu/ChrisServer/open62541/.git/refs/remotes/origin/master', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/ubuntu/ChrisServer/open62541/.git/refs/remotes/origin/master', is most likely packed.
+> git config --get commit.template
+> git show --textconv :build/compile_commands.json
+> git ls-files --stage -- /home/ubuntu/ChrisServer/open62541/build/compile_commands.json
+> git show --textconv :build/authenticationServer.c
+> git ls-files --stage -- /home/ubuntu/ChrisServer/open62541/build/authenticationServer.c
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/ubuntu/ChrisServer/open62541/.git/refs/remotes/origin/master', is most likely packed.
+> git config --get commit.template
+> git show --textconv :include/open62541/plugin/accesscontrol.h
+> git ls-files --stage -- /home/ubuntu/ChrisServer/open62541/include/open62541/plugin/accesscontrol.h
+> git cat-file -s 455cd4fe4f6b6f08f772ad43cd22ac0bd68a1c5f
+> git show --textconv :plugins/include/open62541/plugin/accesscontrol_default.h
+> git ls-files --stage -- /home/ubuntu/ChrisServer/open62541/plugins/include/open62541/plugin/accesscontrol_default.h
+> git cat-file -s 7f60b1490f94f63aa6aa4567fe1a0c612923302c
+> git show --textconv :build/authenticationServer.c
+> git ls-files --stage -- /home/ubuntu/ChrisServer/open62541/build/authenticationServer.c
+> git show --textconv :build/compile_commands.json
+> git ls-files --stage -- /home/ubuntu/ChrisServer/open62541/build/compile_commands.json
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/ubuntu/ChrisServer/open62541/.git/refs/remotes/origin/master', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/ubuntu/ChrisServer/open62541/.git/refs/remotes/origin/master', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/ubuntu/ChrisServer/open62541/.git/refs/remotes/origin/master', is most likely packed.
+> git config --get commit.template
+> git show --textconv :build/authenticationServer.c
+> git ls-files --stage -- /home/ubuntu/ChrisServer/open62541/build/authenticationServer.c
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/ubuntu/ChrisServer/open62541/.git/refs/remotes/origin/master', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/ubuntu/ChrisServer/open62541/.git/refs/remotes/origin/master', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/ubuntu/ChrisServer/open62541/.git/refs/remotes/origin/master', is most likely packed.
+> git config --get commit.template
+> git show --textconv :build/compile_commands.json
+> git ls-files --stage -- /home/ubuntu/ChrisServer/open62541/build/compile_commands.json
+> git show --textconv :build/authenticationServer.c
+> git ls-files --stage -- /home/ubuntu/ChrisServer/open62541/build/authenticationServer.c
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git show --textconv :examples/access_control_encrypt/client_access_control_encrypt.c
+> git ls-files --stage -- /home/ubuntu/ChrisServer/open62541/examples/access_control_encrypt/client_access_control_encrypt.c
+> git cat-file -s d9a067f184191203135cbacece2c54f6d415a36e
+> git show --textconv :build/authenticationServer.c
+> git ls-files --stage -- /home/ubuntu/ChrisServer/open62541/build/authenticationServer.c
+> git show --textconv :examples/access_control_encrypt/client_access_control_encrypt.c
+> git ls-files --stage -- /home/ubuntu/ChrisServer/open62541/examples/access_control_encrypt/client_access_control_encrypt.c
+> git cat-file -s d9a067f184191203135cbacece2c54f6d415a36e
+> git show --textconv :build/authenticationServer.c
+> git ls-files --stage -- /home/ubuntu/ChrisServer/open62541/build/authenticationServer.c
+> git check-ignore -v -z --stdin
+> git show --textconv :examples/access_control/server_access_control.c
+> git ls-files --stage -- /home/ubuntu/ChrisServer/open62541/examples/access_control/server_access_control.c
+> git cat-file -s 7e039f22d380d9e05b98930411a88393d6b5a144
+> git show --textconv :build/authenticationServer.c
+> git ls-files --stage -- /home/ubuntu/ChrisServer/open62541/build/authenticationServer.c
+> git show --textconv :examples/access_control/server_access_control.c
+> git ls-files --stage -- /home/ubuntu/ChrisServer/open62541/examples/access_control/server_access_control.c
+> git cat-file -s 7e039f22d380d9e05b98930411a88393d6b5a144
+> git show --textconv :build/authenticationServer.c
+> git ls-files --stage -- /home/ubuntu/ChrisServer/open62541/build/authenticationServer.c
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/ubuntu/ChrisServer/open62541/.git/refs/remotes/origin/master', is most likely packed.
+> git config --get commit.template
+> git show --textconv :examples/access_control/server_access_control.c
+> git ls-files --stage -- /home/ubuntu/ChrisServer/open62541/examples/access_control/server_access_control.c
+> git cat-file -s 7e039f22d380d9e05b98930411a88393d6b5a144
+> git show --textconv :build/authenticationServer.c
+> git ls-files --stage -- /home/ubuntu/ChrisServer/open62541/build/authenticationServer.c
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/ubuntu/ChrisServer/open62541/.git/refs/remotes/origin/master', is most likely packed.
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin

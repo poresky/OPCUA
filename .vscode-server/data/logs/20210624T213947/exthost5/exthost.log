@@ -1,0 +1,61 @@
+[2021-06-24 22:14:33.753] [exthost] [info] extension host started
+[2021-06-24 22:14:33.994] [exthost] [info] ExtensionService#_doActivateExtension vscode.configuration-editing {"startup":false,"extensionId":{"value":"vscode.configuration-editing","_lower":"vscode.configuration-editing"},"activationEvent":"onLanguage:json"}
+[2021-06-24 22:14:33.997] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/ubuntu/.vscode-server/bin/b4c1bd0a9b03c749ea011b06c6d2676c8091a70c/extensions/configuration-editing/dist/configurationEditingMain
+[2021-06-24 22:14:34.083] [exthost] [info] ExtensionService#_doActivateExtension vscode.extension-editing {"startup":false,"extensionId":{"value":"vscode.extension-editing","_lower":"vscode.extension-editing"},"activationEvent":"onLanguage:json"}
+[2021-06-24 22:14:34.083] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/ubuntu/.vscode-server/bin/b4c1bd0a9b03c749ea011b06c6d2676c8091a70c/extensions/extension-editing/dist/extensionEditingMain
+[2021-06-24 22:14:34.170] [exthost] [info] ExtensionService#_doActivateExtension vscode.json-language-features {"startup":false,"extensionId":{"value":"vscode.json-language-features","_lower":"vscode.json-language-features"},"activationEvent":"onLanguage:json"}
+[2021-06-24 22:14:34.170] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/ubuntu/.vscode-server/bin/b4c1bd0a9b03c749ea011b06c6d2676c8091a70c/extensions/json-language-features/client/dist/node/jsonClientMain
+[2021-06-24 22:14:34.471] [exthost] [info] ExtensionService#_doActivateExtension vscode.npm {"startup":false,"extensionId":{"value":"vscode.npm","_lower":"vscode.npm"},"activationEvent":"onLanguage:json"}
+[2021-06-24 22:14:34.471] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/ubuntu/.vscode-server/bin/b4c1bd0a9b03c749ea011b06c6d2676c8091a70c/extensions/npm/dist/npmMain
+[2021-06-24 22:14:34.615] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"extensionId":{"value":"vscode.debug-auto-launch","_lower":"vscode.debug-auto-launch"},"activationEvent":"*"}
+[2021-06-24 22:14:34.615] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/ubuntu/.vscode-server/bin/b4c1bd0a9b03c749ea011b06c6d2676c8091a70c/extensions/debug-auto-launch/dist/extension
+[2021-06-24 22:14:34.638] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"extensionId":{"value":"vscode.github","_lower":"vscode.github"},"activationEvent":"*"}
+[2021-06-24 22:14:34.638] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/ubuntu/.vscode-server/bin/b4c1bd0a9b03c749ea011b06c6d2676c8091a70c/extensions/git/dist/main
+[2021-06-24 22:14:34.928] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode.cpptools {"startup":true,"extensionId":{"value":"ms-vscode.cpptools","_lower":"ms-vscode.cpptools"},"activationEvent":"workspaceContains:/.vscode/c_cpp_properties.json"}
+[2021-06-24 22:14:34.928] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/ubuntu/.vscode-server/extensions/ms-vscode.cpptools-1.4.1/dist/main
+[2021-06-24 22:14:36.053] [exthost] [info] ExtensionService#_doActivateExtension vscode.github {"startup":true,"extensionId":{"value":"vscode.github","_lower":"vscode.github"},"activationEvent":"*"}
+[2021-06-24 22:14:36.053] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/ubuntu/.vscode-server/bin/b4c1bd0a9b03c749ea011b06c6d2676c8091a70c/extensions/github/dist/extension.js
+[2021-06-24 22:14:38.201] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":false,"extensionId":{"value":"vscode.emmet","_lower":"vscode.emmet"},"activationEvent":"onStartupFinished"}
+[2021-06-24 22:14:38.202] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/ubuntu/.vscode-server/bin/b4c1bd0a9b03c749ea011b06c6d2676c8091a70c/extensions/emmet/dist/node/emmetNodeMain
+[2021-06-24 22:14:38.268] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":false,"extensionId":{"value":"vscode.merge-conflict","_lower":"vscode.merge-conflict"},"activationEvent":"onStartupFinished"}
+[2021-06-24 22:14:38.268] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/ubuntu/.vscode-server/bin/b4c1bd0a9b03c749ea011b06c6d2676c8091a70c/extensions/merge-conflict/dist/mergeConflictMain
+[2021-06-24 22:14:38.295] [exthost] [info] ExtensionService#_doActivateExtension vscode.testing-editor-contributions {"startup":false,"extensionId":{"value":"vscode.testing-editor-contributions","_lower":"vscode.testing-editor-contributions"},"activationEvent":"onStartupFinished"}
+[2021-06-24 22:14:38.295] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/ubuntu/.vscode-server/bin/b4c1bd0a9b03c749ea011b06c6d2676c8091a70c/extensions/testing-editor-contributions/dist/extension.js
+[2021-06-24 22:14:38.298] [exthost] [info] eager extensions activated
+[2021-06-24 22:14:38.835] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode.js-debug {"startup":false,"extensionId":{"value":"ms-vscode.js-debug","_lower":"ms-vscode.js-debug"},"activationEvent":"onCommand:extension.js-debug.clearAutoAttachVariables"}
+[2021-06-24 22:14:38.835] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/ubuntu/.vscode-server/bin/b4c1bd0a9b03c749ea011b06c6d2676c8091a70c/extensions/ms-vscode.js-debug/src/extension.js
+[2021-06-24 22:14:40.206] [exthost] [info] ExtensionService#_doActivateExtension vscode.typescript-language-features {"startup":false,"extensionId":{"value":"vscode.typescript-language-features","_lower":"vscode.typescript-language-features"},"activationEvent":"onLanguage:jsonc"}
+[2021-06-24 22:14:40.206] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/ubuntu/.vscode-server/bin/b4c1bd0a9b03c749ea011b06c6d2676c8091a70c/extensions/typescript-language-features/dist/extension
+[2021-06-24 22:14:41.794] [exthost] [error] [vscode.json-language-features] provider FAILED
+[2021-06-24 22:14:41.795] [exthost] [error] Canceled: Canceled
+	at b.makeCancelError (/home/ubuntu/.vscode-server/bin/b4c1bd0a9b03c749ea011b06c6d2676c8091a70c/extensions/json-language-features/client/dist/node/jsonClientMain.js:1:64501)
+	at b.handleFailedRequest (/home/ubuntu/.vscode-server/bin/b4c1bd0a9b03c749ea011b06c6d2676c8091a70c/extensions/json-language-features/client/dist/node/jsonClientMain.js:1:64352)
+	at /home/ubuntu/.vscode-server/bin/b4c1bd0a9b03c749ea011b06c6d2676c8091a70c/extensions/json-language-features/client/dist/node/jsonClientMain.js:1:308507
+[2021-06-24 22:32:36.247] [exthost] [info] extension host terminating: received terminate message from renderer
+[2021-06-24 22:32:36.780] [exthost] [error] Error: Language client is not ready yet
+	at LanguageClient.sendNotification (/home/ubuntu/.vscode-server/extensions/ms-vscode.cpptools-1.4.1/dist/main.js:53442:19)
+	at /home/ubuntu/.vscode-server/extensions/ms-vscode.cpptools-1.4.1/dist/main.js:36991:33
+	at /home/ubuntu/.vscode-server/extensions/ms-vscode.cpptools-1.4.1/dist/main.js:37513:21
+	at new Promise (<anonymous>)
+	at task (/home/ubuntu/.vscode-server/extensions/ms-vscode.cpptools-1.4.1/dist/main.js:37512:28)
+	at DefaultClient.<anonymous> (/home/ubuntu/.vscode-server/extensions/ms-vscode.cpptools-1.4.1/dist/main.js:37455:38)
+	at Generator.next (<anonymous>)
+	at /home/ubuntu/.vscode-server/extensions/ms-vscode.cpptools-1.4.1/dist/main.js:36089:71
+	at new Promise (<anonymous>)
+	at __webpack_modules__.9325.__awaiter (/home/ubuntu/.vscode-server/extensions/ms-vscode.cpptools-1.4.1/dist/main.js:36085:12)
+	at nextTask (/home/ubuntu/.vscode-server/extensions/ms-vscode.cpptools-1.4.1/dist/main.js:37453:40)
+	at DefaultClient.<anonymous> (/home/ubuntu/.vscode-server/extensions/ms-vscode.cpptools-1.4.1/dist/main.js:37471:24)
+	at Generator.next (<anonymous>)
+	at /home/ubuntu/.vscode-server/extensions/ms-vscode.cpptools-1.4.1/dist/main.js:36089:71
+	at new Promise (<anonymous>)
+	at __webpack_modules__.9325.__awaiter (/home/ubuntu/.vscode-server/extensions/ms-vscode.cpptools-1.4.1/dist/main.js:36085:12)
+	at DefaultClient.queueTask (/home/ubuntu/.vscode-server/extensions/ms-vscode.cpptools-1.4.1/dist/main.js:37451:16)
+	at DefaultClient.notifyWhenLanguageClientReady (/home/ubuntu/.vscode-server/extensions/ms-vscode.cpptools-1.4.1/dist/main.js:37515:21)
+	at DefaultClient.sendDidChangeSettings (/home/ubuntu/.vscode-server/extensions/ms-vscode.cpptools-1.4.1/dist/main.js:36990:14)
+	at DefaultClient.sendAllSettings (/home/ubuntu/.vscode-server/extensions/ms-vscode.cpptools-1.4.1/dist/main.js:36987:14)
+	at DefaultClient.onDidChangeSettings (/home/ubuntu/.vscode-server/extensions/ms-vscode.cpptools-1.4.1/dist/main.js:36995:14)
+	at onDidChangeSettings (/home/ubuntu/.vscode-server/extensions/ms-vscode.cpptools-1.4.1/dist/main.js:41162:54)
+	at l.fire (/home/ubuntu/.vscode-server/bin/b4c1bd0a9b03c749ea011b06c6d2676c8091a70c/out/vs/server/remoteExtensionHostProcess.js:57:1835)
+	at t.$acceptConfigurationChanged (/home/ubuntu/.vscode-server/bin/b4c1bd0a9b03c749ea011b06c6d2676c8091a70c/out/vs/server/remoteExtensionHostProcess.js:88:38881)
+	at /home/ubuntu/.vscode-server/bin/b4c1bd0a9b03c749ea011b06c6d2676c8091a70c/out/vs/server/remoteExtensionHostProcess.js:88:38135
+[2021-06-24 22:32:37.485] [exthost] [info] exiting with code 0

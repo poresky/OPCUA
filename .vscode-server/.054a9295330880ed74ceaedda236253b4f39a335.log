@@ -1,0 +1,132 @@
+
+
+*
+* Visual Studio Code Server
+*
+* Reminder: You may only use this software with Visual Studio family products,
+* as described in the license https://aka.ms/vscode-remote/license
+*
+
+Extension host agent listening on 34157
+
+[20:49:49] Extension host agent started.
+[20:49:50] [127.0.0.1][b3a46623][ManagementConnection] New connection established.
+[20:49:50] [127.0.0.1][eea12683][ExtensionHostConnection] New connection established.
+[20:49:50] [127.0.0.1][eea12683][ExtensionHostConnection] <539665> Launched Extension Host Process.
+[20:49:50] Deleted from disk ms-python.vscode-pylance /home/ubuntu/.vscode-server/extensions/ms-python.vscode-pylance-2021.5.3
+[20:49:52] Installing extension: ms-toolsai.jupyter
+[20:49:53] Downloaded extension: ms-toolsai.jupyter /home/ubuntu/.vscode-server/data/CachedExtensionVSIXs/ms-toolsai.jupyter-2021.6.832593372
+[20:49:56] Extracted extension to /home/ubuntu/.vscode-server/extensions/.ba8a03c9-f1d5-4247-a6f0-d62b13321292: ms-toolsai.jupyter
+[20:49:56] Renamed to /home/ubuntu/.vscode-server/extensions/ms-toolsai.jupyter-2021.6.832593372
+[20:49:56] Installation completed. ms-toolsai.jupyter
+[20:49:56] Extensions installed successfully: ms-toolsai.jupyter
+[21:23:48] [127.0.0.1][b3a46623][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[21:23:49] [127.0.0.1][eea12683][ExtensionHostConnection] <539665> Extension Host Process exited with code: 0, signal: null.
+Last EH closed, waiting before shutting down
+[21:23:49] Last EH closed, waiting before shutting down
+Got delay-shutdown request while in shutdown timeout, delaying
+[21:23:51] Got delay-shutdown request while in shutdown timeout, delaying
+Cancelling previous shutdown timeout
+[21:23:51] Cancelling previous shutdown timeout
+[21:23:51] [127.0.0.1][b6105fb7][ManagementConnection] New connection established.
+[21:23:51] [127.0.0.1][f2393e87][ExtensionHostConnection] New connection established.
+[21:23:51] [127.0.0.1][f2393e87][ExtensionHostConnection] <540411> Launched Extension Host Process.
+New EH opened, aborting shutdown
+[21:28:51] New EH opened, aborting shutdown
+[21:55:30] [127.0.0.1][b6105fb7][ManagementConnection] The client has disconnected, will wait for reconnection 3h before disposing...
+Error: Unexpected SIGPIPE
+    at process.<anonymous> (/home/ubuntu/.vscode-server/bin/054a9295330880ed74ceaedda236253b4f39a335/out/bootstrap.js:1:370)
+    at process.emit (events.js:315:20)
+[22:45:02] [127.0.0.1][b6105fb7][ManagementConnection] Another client has connected, will shorten the wait for reconnection 5m before disposing...
+[22:45:02] [127.0.0.1][ccf85d67][ManagementConnection] New connection established.
+[22:45:03] [127.0.0.1][fe057036][ExtensionHostConnection] New connection established.
+[22:45:03] [127.0.0.1][fe057036][ExtensionHostConnection] <541062> Launched Extension Host Process.
+[22:45:54] [127.0.0.1][ccf85d67][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[22:45:55] [127.0.0.1][fe057036][ExtensionHostConnection] <541062> Extension Host Process exited with code: 0, signal: null.
+[22:45:58] [127.0.0.1][e3f00b0c][ManagementConnection] New connection established.
+[22:45:58] [127.0.0.1][c9e17279][ExtensionHostConnection] New connection established.
+[22:45:58] [127.0.0.1][c9e17279][ExtensionHostConnection] <541227> Launched Extension Host Process.
+[IPC Library: Pty Host]  INFO Persistent process "7": Replaying 925 chars and 1 size events
+[22:47:35] No ptyHost heartbeat after 6 seconds
+[22:57:58] No ptyHost heartbeat after 6 seconds
+[23:05:53] [127.0.0.1][b6105fb7][ManagementConnection] The reconnection short grace time of 5m has expired, so the connection will be disposed.
+[23:06:00] [127.0.0.1][e3f00b0c][ManagementConnection] The client has disconnected, will wait for reconnection 3h before disposing...
+Error: Unexpected SIGPIPE
+    at process.<anonymous> (/home/ubuntu/.vscode-server/bin/054a9295330880ed74ceaedda236253b4f39a335/out/bootstrap.js:1:370)
+    at process.emit (events.js:315:20)
+[23:06:03] [127.0.0.1][f2393e87][ExtensionHostConnection] <540411> Extension Host Process exited with code: 0, signal: null.
+[23:06:22] [127.0.0.1][e3f00b0c][ManagementConnection] Another client has connected, will shorten the wait for reconnection 5m before disposing...
+[23:06:22] [127.0.0.1][a6bab0bc][ManagementConnection] New connection established.
+[23:06:22] [127.0.0.1][e1fed9b9][ExtensionHostConnection] New connection established.
+[23:06:22] [127.0.0.1][e1fed9b9][ExtensionHostConnection] <541749> Launched Extension Host Process.
+[23:06:34] [127.0.0.1][a6bab0bc][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[23:06:35] [127.0.0.1][e1fed9b9][ExtensionHostConnection] <541749> Extension Host Process exited with code: 0, signal: null.
+[23:06:38] [127.0.0.1][72a241de][ManagementConnection] New connection established.
+[23:06:38] [127.0.0.1][6d8e0eb9][ExtensionHostConnection] New connection established.
+[23:06:38] [127.0.0.1][6d8e0eb9][ExtensionHostConnection] <541915> Launched Extension Host Process.
+[23:10:34] No ptyHost heartbeat after 6 seconds
+[23:11:28] [127.0.0.1][e3f00b0c][ManagementConnection] The reconnection short grace time of 5m has expired, so the connection will be disposed.
+[23:11:59] [127.0.0.1][c9e17279][ExtensionHostConnection] <541227> Extension Host Process exited with code: 0, signal: null.
+[23:12:00] [127.0.0.1][72a241de][ManagementConnection] The client has reconnected.
+[23:12:00] [127.0.0.1][6d8e0eb9][ExtensionHostConnection] The client has reconnected.
+Error: Unexpected SIGPIPE
+    at process.<anonymous> (/home/ubuntu/.vscode-server/bin/054a9295330880ed74ceaedda236253b4f39a335/out/bootstrap.js:1:370)
+    at process.emit (events.js:315:20)
+[23:54:36] [127.0.0.1][72a241de][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[23:54:37] [127.0.0.1][6d8e0eb9][ExtensionHostConnection] <541915> Extension Host Process exited with code: 0, signal: null.
+Last EH closed, waiting before shutting down
+[23:54:37] Last EH closed, waiting before shutting down
+Got delay-shutdown request while in shutdown timeout, delaying
+[23:54:38] Got delay-shutdown request while in shutdown timeout, delaying
+Cancelling previous shutdown timeout
+[23:54:38] Cancelling previous shutdown timeout
+[23:54:39] [127.0.0.1][6d655b1a][ManagementConnection] New connection established.
+[23:54:39] [127.0.0.1][799eeb84][ExtensionHostConnection] New connection established.
+[23:54:39] [127.0.0.1][799eeb84][ExtensionHostConnection] <543296> Launched Extension Host Process.
+[23:54:55] [127.0.0.1][6d655b1a][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[23:54:56] [127.0.0.1][799eeb84][ExtensionHostConnection] <543296> Extension Host Process exited with code: 0, signal: null.
+Cancelling previous shutdown timeout
+[23:54:56] Cancelling previous shutdown timeout
+Last EH closed, waiting before shutting down
+[23:54:56] Last EH closed, waiting before shutting down
+Got delay-shutdown request while in shutdown timeout, delaying
+[23:54:58] Got delay-shutdown request while in shutdown timeout, delaying
+Cancelling previous shutdown timeout
+[23:54:58] Cancelling previous shutdown timeout
+[23:54:58] [127.0.0.1][64334bab][ManagementConnection] New connection established.
+[23:54:58] [127.0.0.1][3add2c6e][ExtensionHostConnection] New connection established.
+[23:54:58] [127.0.0.1][3add2c6e][ExtensionHostConnection] <543622> Launched Extension Host Process.
+[23:55:03] [File Watcher (chokidar)] Error: Circular symlink detected: "/home/ubuntu/.wine/drive_c/users/ubuntu/Downloads" points to "/home/ubuntu"
+[23:55:04] [File Watcher (chokidar)] Error: Circular symlink detected: "/usr/bin/X11" points to "/usr/bin"
+[23:55:06] [File Watcher (chokidar)] Inotify limit reached (ENOSPC)
+[IPC Library: File Watcher (chokidar)] Unhandled Promise Rejection:  Canceled: Canceled
+    at F (/home/ubuntu/.vscode-server/bin/054a9295330880ed74ceaedda236253b4f39a335/out/vs/platform/files/node/watcher/unix/watcherApp.js:5:1157)
+    at N.cancel (/home/ubuntu/.vscode-server/bin/054a9295330880ed74ceaedda236253b4f39a335/out/vs/platform/files/node/watcher/unix/watcherApp.js:10:25861)
+    at R.cancel (/home/ubuntu/.vscode-server/bin/054a9295330880ed74ceaedda236253b4f39a335/out/vs/platform/files/node/watcher/unix/watcherApp.js:10:26230)
+    at Object.stop (/home/ubuntu/.vscode-server/bin/054a9295330880ed74ceaedda236253b4f39a335/out/vs/platform/files/node/watcher/unix/watcherApp.js:11:32548)
+    at async C.stop (/home/ubuntu/.vscode-server/bin/054a9295330880ed74ceaedda236253b4f39a335/out/vs/platform/files/node/watcher/unix/watcherApp.js:11:33854)
+New EH opened, aborting shutdown
+[00:00:58] New EH opened, aborting shutdown
+[00:02:41] No ptyHost heartbeat after 6 seconds
+[00:07:52] No ptyHost heartbeat after 6 seconds
+[00:20:49] No ptyHost heartbeat after 6 seconds
+[00:31:29] No ptyHost heartbeat after 6 seconds
+[00:36:13] [127.0.0.1][64334bab][ManagementConnection] The client has disconnected, will wait for reconnection 3h before disposing...
+[00:36:15] No ptyHost heartbeat after 6 seconds
+Error: Unexpected SIGPIPE
+    at process.<anonymous> (/home/ubuntu/.vscode-server/bin/054a9295330880ed74ceaedda236253b4f39a335/out/bootstrap.js:1:370)
+    at process.emit (events.js:315:20)
+[00:37:32] No ptyHost heartbeat after 6 seconds
+[00:39:12] No ptyHost heartbeat after 6 seconds
+[00:40:29] No ptyHost heartbeat after 6 seconds
+[00:42:36] No ptyHost heartbeat after 6 seconds
+[00:44:07] No ptyHost heartbeat after 6 seconds
+[00:44:49] No ptyHost heartbeat after 6 seconds
+[00:46:10] No ptyHost heartbeat after 6 seconds
+[00:46:38] No ptyHost heartbeat after 6 seconds
+[00:47:16] No ptyHost heartbeat after 12 seconds
+[03:06:54] [127.0.0.1][3add2c6e][ExtensionHostConnection] <543622> Extension Host Process exited with code: null, signal: SIGKILL.
+Last EH closed, waiting before shutting down
+[03:06:54] Last EH closed, waiting before shutting down
+Last EH closed, shutting down
+[03:11:54] Last EH closed, shutting down

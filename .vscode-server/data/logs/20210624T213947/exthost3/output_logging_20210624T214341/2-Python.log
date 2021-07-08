@@ -1,0 +1,7 @@
+User belongs to experiment group 'pythonaacf'
+User belongs to experiment group 'pythonJediLSP'
+User belongs to experiment group 'pythonDiscoveryModuleWithoutWatcher'
+User belongs to experiment group 'pythonTensorboardExperiment'
+User belongs to experiment group 'pythonSurveyNotification'
+User belongs to experiment group 'PythonPyTorchProfiler'
+Python interpreter path: ./usr/bin/python3

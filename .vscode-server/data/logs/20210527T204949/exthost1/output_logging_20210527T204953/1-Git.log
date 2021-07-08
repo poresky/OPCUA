@@ -1,0 +1,144 @@
+Looking for git in: git
+Using git 2.25.1 from git
+> git rev-parse --git-dir
+Open repository: /home/ubuntu/ChrisServer
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git show --textconv :open62541/build/myServer.c
+> git ls-files --stage -- /home/ubuntu/ChrisServer/open62541/build/myServer.c
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git show --textconv :open62541/plugins/ua_accesscontrol_default.c
+> git ls-files --stage -- /home/ubuntu/ChrisServer/open62541/plugins/ua_accesscontrol_default.c
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git show --textconv :open62541/plugins/include/open62541/plugin/accesscontrol_default.h
+> git ls-files --stage -- /home/ubuntu/ChrisServer/open62541/plugins/include/open62541/plugin/accesscontrol_default.h
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git show --textconv :open62541/examples/access_control_encrypt/client_access_control_encrypt.c
+> git ls-files --stage -- /home/ubuntu/ChrisServer/open62541/examples/access_control_encrypt/client_access_control_encrypt.c
+> git show --textconv :open62541/examples/access_control/server_access_control.c
+> git ls-files --stage -- /home/ubuntu/ChrisServer/open62541/examples/access_control/server_access_control.c
+> git show --textconv :open62541/examples/access_control/client_access_control.c
+> git ls-files --stage -- /home/ubuntu/ChrisServer/open62541/examples/access_control/client_access_control.c
+> git check-ignore -v -z --stdin
+> git show --textconv :open62541/examples/encryption/server_encryption.c
+> git ls-files --stage -- /home/ubuntu/ChrisServer/open62541/examples/encryption/server_encryption.c
+> git show --textconv :open62541/examples/encryption/client_encryption.c
+> git ls-files --stage -- /home/ubuntu/ChrisServer/open62541/examples/encryption/client_encryption.c
+> git show --textconv :open62541/examples/access_control/server_access_control.c
+> git ls-files --stage -- /home/ubuntu/ChrisServer/open62541/examples/access_control/server_access_control.c
+> git show --textconv :open62541/build/myServer.c
+> git ls-files --stage -- /home/ubuntu/ChrisServer/open62541/build/myServer.c
+> git show --textconv :open62541/examples/access_control/server_access_control.c
+> git ls-files --stage -- /home/ubuntu/ChrisServer/open62541/examples/access_control/server_access_control.c
+> git show --textconv :open62541/build/myServer.c
+> git ls-files --stage -- /home/ubuntu/ChrisServer/open62541/build/myServer.c
+> git show --textconv :open62541/examples/access_control/server_access_control.c
+> git ls-files --stage -- /home/ubuntu/ChrisServer/open62541/examples/access_control/server_access_control.c
+> git show --textconv :open62541/build/myServer.c
+> git ls-files --stage -- /home/ubuntu/ChrisServer/open62541/build/myServer.c
+> git show --textconv :open62541/examples/access_control/server_access_control.c
+> git ls-files --stage -- /home/ubuntu/ChrisServer/open62541/examples/access_control/server_access_control.c
+> git show --textconv :open62541/build/myServer.c
+> git ls-files --stage -- /home/ubuntu/ChrisServer/open62541/build/myServer.c
+> git check-ignore -v -z --stdin
+> git show --textconv :open62541/build/myServer copy.c
+> git ls-files --stage -- /home/ubuntu/ChrisServer/open62541/build/myServer copy.c
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :open62541/build/authenticationServer.c
+> git ls-files --stage -- /home/ubuntu/ChrisServer/open62541/build/authenticationServer.c
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :open62541/examples/access_control/server_access_control.c
+> git ls-files --stage -- /home/ubuntu/ChrisServer/open62541/examples/access_control/server_access_control.c
+> git show --textconv :open62541/build/authenticationServer.c
+> git ls-files --stage -- /home/ubuntu/ChrisServer/open62541/build/authenticationServer.c
+> git show --textconv :open62541/examples/access_control/server_access_control.c
+> git ls-files --stage -- /home/ubuntu/ChrisServer/open62541/examples/access_control/server_access_control.c
+> git show --textconv :open62541/build/authenticationServer.c
+> git ls-files --stage -- /home/ubuntu/ChrisServer/open62541/build/authenticationServer.c
+> git show --textconv :open62541/examples/access_control/server_access_control.c
+> git ls-files --stage -- /home/ubuntu/ChrisServer/open62541/examples/access_control/server_access_control.c
+> git show --textconv :open62541/build/authenticationServer.c
+> git ls-files --stage -- /home/ubuntu/ChrisServer/open62541/build/authenticationServer.c
+> git show --textconv :open62541/examples/access_control/server_access_control.c
+> git ls-files --stage -- /home/ubuntu/ChrisServer/open62541/examples/access_control/server_access_control.c
+> git show --textconv :open62541/build/authenticationServer.c
+> git ls-files --stage -- /home/ubuntu/ChrisServer/open62541/build/authenticationServer.c
+> git show --textconv :open62541/examples/access_control/server_access_control.c
+> git ls-files --stage -- /home/ubuntu/ChrisServer/open62541/examples/access_control/server_access_control.c
+> git show --textconv :open62541/build/authenticationServer.c
+> git ls-files --stage -- /home/ubuntu/ChrisServer/open62541/build/authenticationServer.c
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n21 -- /home/ubuntu/ChrisServer/open62541/examples/access_control/server_access_control.c
+> git show --textconv :open62541/examples/access_control/server_access_control.c
+> git ls-files --stage -- /home/ubuntu/ChrisServer/open62541/examples/access_control/server_access_control.c
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git show --textconv :open62541/build/authenticationServer.c
+> git ls-files --stage -- /home/ubuntu/ChrisServer/open62541/build/authenticationServer.c
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git show --textconv :open62541/build/authenticationServer.c
+> git ls-files --stage -- /home/ubuntu/ChrisServer/open62541/build/authenticationServer.c
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template

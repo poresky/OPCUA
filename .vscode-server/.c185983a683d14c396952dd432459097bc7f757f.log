@@ -1,0 +1,31 @@
+
+
+*
+* Visual Studio Code Server
+*
+* Reminder: You may only use this software with Visual Studio family products,
+* as described in the license https://aka.ms/vscode-remote/license
+*
+
+Extension host agent listening on 39273
+
+[20:19:51] Extension host agent started.
+[20:19:52] [127.0.0.1][0680a334][ManagementConnection] New connection established.
+[20:19:52] [127.0.0.1][9a0eaefd][ExtensionHostConnection] New connection established.
+bash: cannot set terminal process group (-1): Inappropriate ioctl for device
+bash: no job control in this shell
+[IPC Library: Pty Host]  INFO Listing 0 persistent terminals, 0 total terminals
+[20:19:52] [127.0.0.1][9a0eaefd][ExtensionHostConnection] <194021> Launched Extension Host Process.
+[21:32:26] [127.0.0.1][0680a334][ManagementConnection] The client has disconnected, will wait for reconnection 3h before disposing...
+Error: Unexpected SIGPIPE
+    at process.<anonymous> (/home/ubuntu/.vscode-server/bin/c185983a683d14c396952dd432459097bc7f757f/out/bootstrap.js:1:370)
+    at process.emit (events.js:315:20)
+[21:44:19] [127.0.0.1][0680a334][ManagementConnection] Another client has connected, will shorten the wait for reconnection 5m before disposing...
+[21:44:19] [127.0.0.1][0680a334][ManagementConnection] The client has reconnected.
+[21:44:53] [127.0.0.1][9a0eaefd][ExtensionHostConnection] The client has reconnected.
+[21:55:23] [127.0.0.1][0680a334][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[21:55:24] [127.0.0.1][9a0eaefd][ExtensionHostConnection] <194021> Extension Host Process exited with code: 0, signal: null.
+Last EH closed, waiting before shutting down
+[21:55:24] Last EH closed, waiting before shutting down
+Last EH closed, shutting down
+[22:00:24] Last EH closed, shutting down

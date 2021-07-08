@@ -1,0 +1,13 @@
+[5/27/2021, 11:06:53 PM] "authenticationServer.c" not found in "${workspaceFolder}/build/compile_commands.json". 'includePath' from c_cpp_properties.json in folder 'open62541' will be used for this file instead.
+[5/27/2021, 11:07:04 PM] "server_access_control.c" not found in "${workspaceFolder}/build/compile_commands.json". 'includePath' from c_cpp_properties.json in folder 'open62541' will be used for this file instead.
+[5/27/2021, 11:32:04 PM] "authenticationServer.c" not found in "${workspaceFolder}/build/compile_commands.json". 'includePath' from c_cpp_properties.json in folder 'open62541' will be used for this file instead.
+[5/27/2021, 11:32:34 PM] "authenticationServer.c" not found in "${workspaceFolder}/build/compile_commands.json". 'includePath' from c_cpp_properties.json in folder 'open62541' will be used for this file instead.
+[5/27/2021, 11:32:40 PM] "authenticationServer.c" not found in "${workspaceFolder}/build/compile_commands.json". 'includePath' from c_cpp_properties.json in folder 'open62541' will be used for this file instead.
+[5/27/2021, 11:42:20 PM] "${workspaceFolder}/build/compile_commands.json" could not be parsed. 'includePath' from c_cpp_properties.json in folder 'open62541' will be used instead.
+[5/27/2021, 11:42:20 PM] "${workspaceFolder}/build/compile_commands.json" could not be parsed. 'includePath' from c_cpp_properties.json in folder 'open62541' will be used instead.
+[5/27/2021, 11:42:25 PM] "authenticationServer.c" not found in "${workspaceFolder}/build/compile_commands.json". 'includePath' from c_cpp_properties.json in folder 'open62541' will be used for this file instead.
+[5/27/2021, 11:42:26 PM] "authenticationServer.c" not found in "${workspaceFolder}/build/compile_commands.json". 'includePath' from c_cpp_properties.json in folder 'open62541' will be used for this file instead.
+[5/27/2021, 11:42:29 PM] "authenticationServer.c" not found in "${workspaceFolder}/build/compile_commands.json". 'includePath' from c_cpp_properties.json in folder 'open62541' will be used for this file instead.
+[5/27/2021, 11:42:30 PM] "authenticationServer.c" not found in "${workspaceFolder}/build/compile_commands.json". 'includePath' from c_cpp_properties.json in folder 'open62541' will be used for this file instead.
+[5/27/2021, 11:45:30 PM] "authenticationServer.c" not found in "${workspaceFolder}/build/compile_commands.json". 'includePath' from c_cpp_properties.json in folder 'open62541' will be used for this file instead.
+[5/27/2021, 11:45:35 PM] "authenticationServer.c" not found in "${workspaceFolder}/build/compile_commands.json". 'includePath' from c_cpp_properties.json in folder 'open62541' will be used for this file instead.

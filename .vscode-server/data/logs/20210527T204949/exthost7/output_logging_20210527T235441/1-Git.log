@@ -1,0 +1,362 @@
+Looking for git in: git
+Using git 2.25.1 from git
+Opening repository for path='/usr/include' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitErrorCode": "NotAGitRepository",
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: not a git repository (or any of the parent directories): .git\n"
+}
+Opening repository for path='/usr/include/X11' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitErrorCode": "NotAGitRepository",
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: not a git repository (or any of the parent directories): .git\n"
+}
+Opening repository for path='/usr/include/aio.h' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/usr/include/aliases.h' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/usr/include/alloca.h' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/usr/include/ar.h' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/usr/include/argp.h' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/usr/include/argz.h' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/usr/include/arpa' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitErrorCode": "NotAGitRepository",
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: not a git repository (or any of the parent directories): .git\n"
+}
+Opening repository for path='/usr/include/asm-generic' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitErrorCode": "NotAGitRepository",
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: not a git repository (or any of the parent directories): .git\n"
+}
+Opening repository for path='/usr/include/assert.h' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/usr/include/byteswap.h' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/usr/include/c++' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitErrorCode": "NotAGitRepository",
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: not a git repository (or any of the parent directories): .git\n"
+}
+Opening repository for path='/usr/include/complex.h' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/usr/include/cpio.h' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/usr/include/crypt.h' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/usr/include/ctype.h' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/usr/include/dirent.h' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/usr/include/dlfcn.h' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/usr/include/drm' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitErrorCode": "NotAGitRepository",
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: not a git repository (or any of the parent directories): .git\n"
+}
+Opening repository for path='/usr/include/elf.h' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/usr/include/endian.h' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/usr/include/envz.h' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/usr/include/err.h' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/usr/include/errno.h' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/usr/include/error.h' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/usr/include/execinfo.h' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/usr/include/expat.h' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/usr/include/expat_external.h' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/usr/include/fcntl.h' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/usr/include/features.h' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/usr/include/fenv.h' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/usr/include/finclude' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitErrorCode": "NotAGitRepository",
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: not a git repository (or any of the parent directories): .git\n"
+}
+Opening repository for path='/usr/include/fmtmsg.h' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/usr/include/fnmatch.h' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/usr/include/fstab.h' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/usr/include/fts.h' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/usr/include/ftw.h' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/usr/include/gawkapi.h' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/usr/include/gconv.h' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/usr/include/getopt.h' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/usr/include/glob.h' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/usr/include/gnu-versions.h' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/usr/include/gnumake.h' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/usr/include/grp.h' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/usr/include/gshadow.h' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/usr/include/iconv.h' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/usr/include/ifaddrs.h' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/usr/include/inttypes.h' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/usr/include/iproute2' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitErrorCode": "NotAGitRepository",
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: not a git repository (or any of the parent directories): .git\n"
+}
+Opening repository for path='/usr/include/langinfo.h' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/usr/include/lastlog.h' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/usr/include/libdmmp' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitErrorCode": "NotAGitRepository",
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: not a git repository (or any of the parent directories): .git\n"
+}
+Opening repository for path='/usr/include/libgen.h' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/usr/include/libintl.h' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/usr/include/limits.h' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/usr/include/link.h' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/usr/include/linux' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitErrorCode": "NotAGitRepository",
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: not a git repository (or any of the parent directories): .git\n"
+}
+Opening repository for path='/usr/include/locale.h' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/usr/include/malloc.h' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/usr/include/math.h' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/usr/include/mcheck.h' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/usr/include/memory.h' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/usr/include/misc' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitErrorCode": "NotAGitRepository",
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: not a git repository (or any of the parent directories): .git\n"
+}
+Opening repository for path='/usr/include/mntent.h' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/usr/include/monetary.h' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/usr/include/mpath_cmd.h' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/usr/include/mpath_persist.h' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/usr/include/mqueue.h' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/usr/include/mtd' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitErrorCode": "NotAGitRepository",
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: not a git repository (or any of the parent directories): .git\n"
+}
+Opening repository for path='/usr/include/net' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitErrorCode": "NotAGitRepository",
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: not a git repository (or any of the parent directories): .git\n"
+}
+Opening repository for path='/usr/include/netash' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitErrorCode": "NotAGitRepository",
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: not a git repository (or any of the parent directories): .git\n"
+}
+Opening repository for path='/usr/include/netatalk' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitErrorCode": "NotAGitRepository",
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: not a git repository (or any of the parent directories): .git\n"
+}
+Opening repository for path='/usr/include/netax25' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitErrorCode": "NotAGitRepository",
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: not a git repository (or any of the parent directories): .git\n"
+}
+Opening repository for path='/usr/include/netdb.h' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/usr/include/neteconet' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitErrorCode": "NotAGitRepository",
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: not a git repository (or any of the parent directories): .git\n"
+}
+Opening repository for path='/usr/include/netinet' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitErrorCode": "NotAGitRepository",
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: not a git repository (or any of the parent directories): .git\n"
+}
+Opening repository for path='/usr/include/netipx' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitErrorCode": "NotAGitRepository",
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: not a git repository (or any of the parent directories): .git\n"
+}
+Opening repository for path='/usr/include/netiucv' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitErrorCode": "NotAGitRepository",
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: not a git repository (or any of the parent directories): .git\n"
+}
+Opening repository for path='/usr/include/netpacket' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitErrorCode": "NotAGitRepository",
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: not a git repository (or any of the parent directories): .git\n"
+}
+Opening repository for path='/usr/include/netrom' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitErrorCode": "NotAGitRepository",
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: not a git repository (or any of the parent directories): .git\n"
+}
+Opening repository for path='/usr/include/netrose' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitErrorCode": "NotAGitRepository",
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: not a git repository (or any of the parent directories): .git\n"
+}
+Opening repository for path='/usr/include/nfs' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitErrorCode": "NotAGitRepository",
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: not a git repository (or any of the parent directories): .git\n"
+}
+Opening repository for path='/usr/include/nl_types.h' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/usr/include/nss.h' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/usr/include/obstack.h' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/usr/include/paths.h' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/usr/include/poll.h' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/usr/include/printf.h' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/usr/include/proc_service.h' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/usr/include/protocols' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitErrorCode": "NotAGitRepository",
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: not a git repository (or any of the parent directories): .git\n"
+}
+Opening repository for path='/usr/include/pthread.h' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/usr/include/pty.h' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/usr/include/pwd.h' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/usr/include/python3.8' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitErrorCode": "NotAGitRepository",
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: not a git repository (or any of the parent directories): .git\n"
+}
+Opening repository for path='/usr/include/rdma' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitErrorCode": "NotAGitRepository",
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: not a git repository (or any of the parent directories): .git\n"
+}
+Opening repository for path='/usr/include/re_comp.h' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/usr/include/regex.h' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/usr/include/regexp.h' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/usr/include/resolv.h' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/usr/include/rpc' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitErrorCode": "NotAGitRepository",
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: not a git repository (or any of the parent directories): .git\n"
+}
+Opening repository for path='/usr/include/rpcsvc' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitErrorCode": "NotAGitRepository",
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: not a git repository (or any of the parent directories): .git\n"
+}
+Opening repository for path='/usr/include/sched.h' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/usr/include/scsi' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitErrorCode": "NotAGitRepository",
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: not a git repository (or any of the parent directories): .git\n"
+}
+Opening repository for path='/usr/include/search.h' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/usr/include/semaphore.h' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/usr/include/setjmp.h' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/usr/include/sgtty.h' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/usr/include/shadow.h' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/usr/include/signal.h' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/usr/include/sound' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitErrorCode": "NotAGitRepository",
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: not a git repository (or any of the parent directories): .git\n"
+}
+Opening repository for path='/usr/include/spawn.h' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/usr/include/stab.h' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/usr/include/stdc-predef.h' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/usr/include/stdint.h' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/usr/include/stdio.h' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/usr/include/stdio_ext.h' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/usr/include/stdlib.h' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/usr/include/string.h' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/usr/include/strings.h' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/usr/include/sudo_plugin.h' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/usr/include/syscall.h' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/usr/include/sysexits.h' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/usr/include/syslog.h' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/usr/include/tar.h' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/usr/include/termio.h' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/usr/include/termios.h' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/usr/include/tgmath.h' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/usr/include/thread_db.h' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/usr/include/threads.h' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/usr/include/time.h' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/usr/include/ttyent.h' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/usr/include/uchar.h' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/usr/include/ucontext.h' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/usr/include/ulimit.h' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/usr/include/unistd.h' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/usr/include/utime.h' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/usr/include/utmp.h' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/usr/include/utmpx.h' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/usr/include/values.h' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/usr/include/video' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitErrorCode": "NotAGitRepository",
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: not a git repository (or any of the parent directories): .git\n"
+}
+Opening repository for path='/usr/include/wait.h' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/usr/include/wchar.h' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/usr/include/wctype.h' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/usr/include/wordexp.h' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/usr/include/x86_64-linux-gnu' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitErrorCode": "NotAGitRepository",
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: not a git repository (or any of the parent directories): .git\n"
+}
+Opening repository for path='/usr/include/xen' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitErrorCode": "NotAGitRepository",
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: not a git repository (or any of the parent directories): .git\n"
+}
+Opening repository for path='/usr/include/xfs' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitErrorCode": "NotAGitRepository",
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: not a git repository (or any of the parent directories): .git\n"
+}
+Opening repository for path='/usr/include/zconf.h' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/usr/include/zlib.h' failed; ex=Error: spawn ENOTDIR

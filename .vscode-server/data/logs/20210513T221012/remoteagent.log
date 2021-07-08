@@ -1,0 +1,27 @@
+[2021-05-13 22:10:12.132] [remoteagent] [info] 
+
+*
+* Visual Studio Code Server
+*
+* Reminder: You may only use this software with Visual Studio family products,
+* as described in the license https://aka.ms/vscode-remote/license
+*
+
+
+[2021-05-13 22:10:12.132] [remoteagent] [info] Extension host agent started.
+[2021-05-13 22:10:12.413] [remoteagent] [info] [127.0.0.1][29ca179a][ManagementConnection] New connection established.
+[2021-05-13 22:10:12.480] [remoteagent] [info] [127.0.0.1][4ebf45b6][ExtensionHostConnection] New connection established.
+[2021-05-13 22:10:12.792] [remoteagent] [info] [127.0.0.1][4ebf45b6][ExtensionHostConnection] <417680> Launched Extension Host Process.
+[2021-05-13 22:10:13.170] [remoteagent] [info] Deleted from disk ms-python.python /home/ubuntu/.vscode-server/extensions/ms-python.python-2021.4.765268190
+[2021-05-13 22:10:15.145] [remoteagent] [info] Installing extension: ms-python.vscode-pylance
+[2021-05-13 22:10:16.176] [remoteagent] [info] Downloaded extension: ms-python.vscode-pylance undefined
+[2021-05-13 22:10:19.489] [remoteagent] [info] Extracted extension to /home/ubuntu/.vscode-server/extensions/.de729cce-0d0c-46b1-9a2f-b4443ff1c6de: ms-python.vscode-pylance
+[2021-05-13 22:10:19.510] [remoteagent] [info] Renamed to /home/ubuntu/.vscode-server/extensions/ms-python.vscode-pylance-2021.5.2
+[2021-05-13 22:10:19.512] [remoteagent] [info] Installation completed. ms-python.vscode-pylance
+[2021-05-13 22:10:19.583] [remoteagent] [info] Extensions installed successfully: ms-python.vscode-pylance
+[2021-05-13 22:38:07.597] [remoteagent] [info] [127.0.0.1][29ca179a][ManagementConnection] The client has reconnected.
+[2021-05-13 22:38:07.698] [remoteagent] [info] [127.0.0.1][4ebf45b6][ExtensionHostConnection] The client has reconnected.
+[2021-05-13 22:38:11.208] [remoteagent] [info] [127.0.0.1][29ca179a][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[2021-05-13 22:38:12.274] [remoteagent] [info] [127.0.0.1][4ebf45b6][ExtensionHostConnection] <417680> Extension Host Process exited with code: 0, signal: null.
+[2021-05-13 22:38:12.275] [remoteagent] [info] Last EH closed, waiting before shutting down
+[2021-05-13 22:43:12.275] [remoteagent] [info] Last EH closed, shutting down

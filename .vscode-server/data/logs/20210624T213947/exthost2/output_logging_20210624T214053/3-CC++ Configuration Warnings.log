@@ -1,0 +1,2 @@
+[6/24/2021, 9:40:53 PM] "authenticationServer.c" not found in "${workspaceFolder}/open62541/build/compile_commands.json". 'includePath' from c_cpp_properties.json in folder 'ChrisServer' will be used for this file instead.
+[6/24/2021, 9:40:54 PM] "server_access_control.c" not found in "${workspaceFolder}/open62541/build/compile_commands.json". 'includePath' from c_cpp_properties.json in folder 'ChrisServer' will be used for this file instead.

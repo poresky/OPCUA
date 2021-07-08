@@ -1,0 +1,37 @@
+[2021-05-20 17:41:37.526] [remoteagent] [info] 
+
+*
+* Visual Studio Code Server
+*
+* Reminder: You may only use this software with Visual Studio family products,
+* as described in the license https://aka.ms/vscode-remote/license
+*
+
+
+[2021-05-20 17:41:37.526] [remoteagent] [info] Extension host agent started.
+[2021-05-20 17:41:38.394] [remoteagent] [info] [127.0.0.1][a3a8423a][ManagementConnection] New connection established.
+[2021-05-20 17:41:38.407] [remoteagent] [info] [127.0.0.1][f4a2aba8][ExtensionHostConnection] New connection established.
+[2021-05-20 17:41:38.432] [remoteagent] [info] Deleted from disk ms-python.vscode-pylance /home/ubuntu/.vscode-server/extensions/ms-python.vscode-pylance-2021.5.1
+[2021-05-20 17:41:38.595] [remoteagent] [info] [127.0.0.1][f4a2aba8][ExtensionHostConnection] <467658> Launched Extension Host Process.
+[2021-05-20 17:41:42.694] [remoteagent] [info] Installing extension: ms-python.python
+[2021-05-20 17:41:42.694] [remoteagent] [info] Installing extension: ms-python.vscode-pylance
+[2021-05-20 17:41:43.553] [remoteagent] [info] Downloaded extension: ms-python.python undefined
+[2021-05-20 17:41:43.780] [remoteagent] [info] Downloaded extension: ms-python.vscode-pylance undefined
+[2021-05-20 17:41:50.504] [remoteagent] [info] Extracted extension to /home/ubuntu/.vscode-server/extensions/.0c4113e5-ad15-465b-bc43-2804621d84cb: ms-python.vscode-pylance
+[2021-05-20 17:41:50.593] [remoteagent] [info] Renamed to /home/ubuntu/.vscode-server/extensions/ms-python.vscode-pylance-2021.5.3
+[2021-05-20 17:41:50.596] [remoteagent] [info] Installation completed. ms-python.vscode-pylance
+[2021-05-20 17:41:50.743] [remoteagent] [info] Extensions installed successfully: ms-python.vscode-pylance
+[2021-05-20 17:41:51.139] [remoteagent] [info] Extracted extension to /home/ubuntu/.vscode-server/extensions/.75cbf64d-7ef4-4fbe-9174-91b29fe0eb57: ms-python.python
+[2021-05-20 17:41:51.158] [remoteagent] [info] Renamed to /home/ubuntu/.vscode-server/extensions/ms-python.python-2021.5.842923320
+[2021-05-20 17:41:51.161] [remoteagent] [info] Installation completed. ms-python.python
+[2021-05-20 17:41:51.268] [remoteagent] [info] Extensions installed successfully: ms-python.python
+[2021-05-20 18:07:12.258] [remoteagent] [info] [127.0.0.1][a3a8423a][ManagementConnection] The client has reconnected.
+[2021-05-20 18:07:12.430] [remoteagent] [info] [127.0.0.1][f4a2aba8][ExtensionHostConnection] The client has reconnected.
+[2021-05-20 19:33:48.037] [remoteagent] [info] [127.0.0.1][a3a8423a][ManagementConnection] The client has disconnected, will wait for reconnection 3h before disposing...
+[2021-05-20 19:59:35.406] [remoteagent] [info] [127.0.0.1][a3a8423a][ManagementConnection] Another client has connected, will shorten the wait for reconnection 5m before disposing...
+[2021-05-20 19:59:35.407] [remoteagent] [info] [127.0.0.1][a3a8423a][ManagementConnection] The client has reconnected.
+[2021-05-20 19:59:35.511] [remoteagent] [info] [127.0.0.1][f4a2aba8][ExtensionHostConnection] The client has reconnected.
+[2021-05-20 19:59:37.804] [remoteagent] [info] [127.0.0.1][a3a8423a][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[2021-05-20 19:59:38.831] [remoteagent] [info] [127.0.0.1][f4a2aba8][ExtensionHostConnection] <467658> Extension Host Process exited with code: 0, signal: null.
+[2021-05-20 19:59:38.831] [remoteagent] [info] Last EH closed, waiting before shutting down
+[2021-05-20 20:04:38.832] [remoteagent] [info] Last EH closed, shutting down

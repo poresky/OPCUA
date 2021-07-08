@@ -1,0 +1,167 @@
+
+
+*
+* Visual Studio Code Server
+*
+* Reminder: You may only use this software with Visual Studio family products,
+* as described in the license https://aka.ms/vscode-remote/license
+*
+
+Extension host agent listening on 36073
+
+[16:19:41] Extension host agent started.
+[16:19:42] [127.0.0.1][804be2c1][ManagementConnection] New connection established.
+[16:19:42] [127.0.0.1][2a80ce24][ExtensionHostConnection] New connection established.
+[16:19:42] Deleted from disk ms-toolsai.jupyter /home/ubuntu/.vscode-server/extensions/ms-toolsai.jupyter-2021.6.999406279
+[16:19:42] [127.0.0.1][2a80ce24][ExtensionHostConnection] <1307> Launched Extension Host Process.
+[16:19:42] Deleted from disk ms-python.vscode-pylance /home/ubuntu/.vscode-server/extensions/ms-python.vscode-pylance-2021.6.2
+[16:19:43] *
+[16:19:43] baseEnv {
+  USER: 'ubuntu',
+  SSH_CLIENT: '135.180.50.13 56150 22',
+  XDG_SESSION_TYPE: 'tty',
+  SHLVL: '0',
+  MOTD_SHOWN: 'pam',
+  HOME: '/home/ubuntu',
+  DBUS_SESSION_BUS_ADDRESS: 'unix:path=/run/user/1000/bus',
+  LOGNAME: 'ubuntu',
+  _: '/home/ubuntu/.vscode-server/bin/b4c1bd0a9b03c749ea011b06c6d2676c8091a70c/node',
+  XDG_SESSION_CLASS: 'user',
+  XDG_SESSION_ID: '4',
+  PATH: '/home/ubuntu/.vscode-server/bin/b4c1bd0a9b03c749ea011b06c6d2676c8091a70c/bin:/home/ubuntu/.local/bin:/home/ubuntu/.vscode-server/bin/b4c1bd0a9b03c749ea011b06c6d2676c8091a70c/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin',
+  VSCODE_AGENT_FOLDER: '/home/ubuntu/.vscode-server',
+  XDG_RUNTIME_DIR: '/run/user/1000',
+  LANG: 'C.UTF-8',
+  SHELL: '/bin/bash',
+  PWD: '/home/ubuntu',
+  SSH_CONNECTION: '135.180.50.13 56150 172.31.16.66 22',
+  VSCODE_INJECT_NODE_MODULE_LOOKUP_PATH: '/home/ubuntu/.vscode-server/bin/b4c1bd0a9b03c749ea011b06c6d2676c8091a70c/remote/node_modules',
+  VSCODE_CWD: '/home/ubuntu',
+  LS_COLORS: '',
+  LESSCLOSE: '/usr/bin/lesspipe %s %s',
+  LESSOPEN: '| /usr/bin/lesspipe %s',
+  XDG_DATA_DIRS: '/usr/local/share:/usr/share:/var/lib/snapd/desktop',
+  VSCODE_LOG_NATIVE: 'false',
+  VSCODE_AMD_ENTRYPOINT: 'vs/server/remoteExtensionHostProcess',
+  VSCODE_PIPE_LOGGING: 'true',
+  VSCODE_VERBOSE_LOGGING: 'true',
+  VSCODE_EXTHOST_WILL_SEND_SOCKET: 'true',
+  VSCODE_HANDLES_UNCAUGHT_ERRORS: 'true',
+  VSCODE_LOG_STACK: 'false',
+  VSCODE_NLS_CONFIG: '{"locale":"en","availableLanguages":{}}',
+  BROWSER: '/home/ubuntu/.vscode-server/bin/b4c1bd0a9b03c749ea011b06c6d2676c8091a70c/bin/helpers/browser.sh'
+}
+[16:19:44] *
+[16:19:44] baseEnv {
+  USER: 'ubuntu',
+  SSH_CLIENT: '135.180.50.13 56150 22',
+  XDG_SESSION_TYPE: 'tty',
+  SHLVL: '0',
+  MOTD_SHOWN: 'pam',
+  HOME: '/home/ubuntu',
+  DBUS_SESSION_BUS_ADDRESS: 'unix:path=/run/user/1000/bus',
+  LOGNAME: 'ubuntu',
+  _: '/home/ubuntu/.vscode-server/bin/b4c1bd0a9b03c749ea011b06c6d2676c8091a70c/node',
+  XDG_SESSION_CLASS: 'user',
+  XDG_SESSION_ID: '4',
+  PATH: '/home/ubuntu/.vscode-server/bin/b4c1bd0a9b03c749ea011b06c6d2676c8091a70c/bin:/home/ubuntu/.local/bin:/home/ubuntu/.vscode-server/bin/b4c1bd0a9b03c749ea011b06c6d2676c8091a70c/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin',
+  VSCODE_AGENT_FOLDER: '/home/ubuntu/.vscode-server',
+  XDG_RUNTIME_DIR: '/run/user/1000',
+  LANG: 'C.UTF-8',
+  SHELL: '/bin/bash',
+  PWD: '/home/ubuntu',
+  SSH_CONNECTION: '135.180.50.13 56150 172.31.16.66 22',
+  VSCODE_INJECT_NODE_MODULE_LOOKUP_PATH: '/home/ubuntu/.vscode-server/bin/b4c1bd0a9b03c749ea011b06c6d2676c8091a70c/remote/node_modules',
+  VSCODE_CWD: '/home/ubuntu',
+  LS_COLORS: '',
+  LESSCLOSE: '/usr/bin/lesspipe %s %s',
+  LESSOPEN: '| /usr/bin/lesspipe %s',
+  XDG_DATA_DIRS: '/usr/local/share:/usr/share:/var/lib/snapd/desktop',
+  VSCODE_LOG_NATIVE: 'false',
+  VSCODE_AMD_ENTRYPOINT: 'vs/server/remoteExtensionHostProcess',
+  VSCODE_PIPE_LOGGING: 'true',
+  VSCODE_VERBOSE_LOGGING: 'true',
+  VSCODE_EXTHOST_WILL_SEND_SOCKET: 'true',
+  VSCODE_HANDLES_UNCAUGHT_ERRORS: 'true',
+  VSCODE_LOG_STACK: 'false',
+  VSCODE_NLS_CONFIG: '{"locale":"en","availableLanguages":{}}',
+  BROWSER: '/home/ubuntu/.vscode-server/bin/b4c1bd0a9b03c749ea011b06c6d2676c8091a70c/bin/helpers/browser.sh'
+}
+[16:19:45] *
+[16:19:45] baseEnv {
+  USER: 'ubuntu',
+  SSH_CLIENT: '135.180.50.13 56150 22',
+  XDG_SESSION_TYPE: 'tty',
+  SHLVL: '0',
+  MOTD_SHOWN: 'pam',
+  HOME: '/home/ubuntu',
+  DBUS_SESSION_BUS_ADDRESS: 'unix:path=/run/user/1000/bus',
+  LOGNAME: 'ubuntu',
+  _: '/home/ubuntu/.vscode-server/bin/b4c1bd0a9b03c749ea011b06c6d2676c8091a70c/node',
+  XDG_SESSION_CLASS: 'user',
+  XDG_SESSION_ID: '4',
+  PATH: '/home/ubuntu/.vscode-server/bin/b4c1bd0a9b03c749ea011b06c6d2676c8091a70c/bin:/home/ubuntu/.local/bin:/home/ubuntu/.vscode-server/bin/b4c1bd0a9b03c749ea011b06c6d2676c8091a70c/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin',
+  VSCODE_AGENT_FOLDER: '/home/ubuntu/.vscode-server',
+  XDG_RUNTIME_DIR: '/run/user/1000',
+  LANG: 'C.UTF-8',
+  SHELL: '/bin/bash',
+  PWD: '/home/ubuntu',
+  SSH_CONNECTION: '135.180.50.13 56150 172.31.16.66 22',
+  VSCODE_INJECT_NODE_MODULE_LOOKUP_PATH: '/home/ubuntu/.vscode-server/bin/b4c1bd0a9b03c749ea011b06c6d2676c8091a70c/remote/node_modules',
+  VSCODE_CWD: '/home/ubuntu',
+  LS_COLORS: '',
+  LESSCLOSE: '/usr/bin/lesspipe %s %s',
+  LESSOPEN: '| /usr/bin/lesspipe %s',
+  XDG_DATA_DIRS: '/usr/local/share:/usr/share:/var/lib/snapd/desktop',
+  VSCODE_LOG_NATIVE: 'false',
+  VSCODE_AMD_ENTRYPOINT: 'vs/server/remoteExtensionHostProcess',
+  VSCODE_PIPE_LOGGING: 'true',
+  VSCODE_VERBOSE_LOGGING: 'true',
+  VSCODE_EXTHOST_WILL_SEND_SOCKET: 'true',
+  VSCODE_HANDLES_UNCAUGHT_ERRORS: 'true',
+  VSCODE_LOG_STACK: 'false',
+  VSCODE_NLS_CONFIG: '{"locale":"en","availableLanguages":{}}',
+  BROWSER: '/home/ubuntu/.vscode-server/bin/b4c1bd0a9b03c749ea011b06c6d2676c8091a70c/bin/helpers/browser.sh'
+}
+[16:19:45] Installing extension: ms-python.vscode-pylance
+[16:19:46] Downloaded extension: ms-python.vscode-pylance /home/ubuntu/.vscode-server/data/CachedExtensionVSIXs/ms-python.vscode-pylance-2021.7.2
+[16:19:47] *
+[16:19:47] baseEnv {
+  USER: 'ubuntu',
+  SSH_CLIENT: '135.180.50.13 56150 22',
+  XDG_SESSION_TYPE: 'tty',
+  SHLVL: '0',
+  MOTD_SHOWN: 'pam',
+  HOME: '/home/ubuntu',
+  DBUS_SESSION_BUS_ADDRESS: 'unix:path=/run/user/1000/bus',
+  LOGNAME: 'ubuntu',
+  _: '/home/ubuntu/.vscode-server/bin/b4c1bd0a9b03c749ea011b06c6d2676c8091a70c/node',
+  XDG_SESSION_CLASS: 'user',
+  XDG_SESSION_ID: '4',
+  PATH: '/home/ubuntu/.vscode-server/bin/b4c1bd0a9b03c749ea011b06c6d2676c8091a70c/bin:/home/ubuntu/.local/bin:/home/ubuntu/.vscode-server/bin/b4c1bd0a9b03c749ea011b06c6d2676c8091a70c/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin',
+  VSCODE_AGENT_FOLDER: '/home/ubuntu/.vscode-server',
+  XDG_RUNTIME_DIR: '/run/user/1000',
+  LANG: 'C.UTF-8',
+  SHELL: '/bin/bash',
+  PWD: '/home/ubuntu',
+  SSH_CONNECTION: '135.180.50.13 56150 172.31.16.66 22',
+  VSCODE_INJECT_NODE_MODULE_LOOKUP_PATH: '/home/ubuntu/.vscode-server/bin/b4c1bd0a9b03c749ea011b06c6d2676c8091a70c/remote/node_modules',
+  VSCODE_CWD: '/home/ubuntu',
+  LS_COLORS: '',
+  LESSCLOSE: '/usr/bin/lesspipe %s %s',
+  LESSOPEN: '| /usr/bin/lesspipe %s',
+  XDG_DATA_DIRS: '/usr/local/share:/usr/share:/var/lib/snapd/desktop',
+  VSCODE_LOG_NATIVE: 'false',
+  VSCODE_AMD_ENTRYPOINT: 'vs/server/remoteExtensionHostProcess',
+  VSCODE_PIPE_LOGGING: 'true',
+  VSCODE_VERBOSE_LOGGING: 'true',
+  VSCODE_EXTHOST_WILL_SEND_SOCKET: 'true',
+  VSCODE_HANDLES_UNCAUGHT_ERRORS: 'true',
+  VSCODE_LOG_STACK: 'false',
+  VSCODE_NLS_CONFIG: '{"locale":"en","availableLanguages":{}}',
+  BROWSER: '/home/ubuntu/.vscode-server/bin/b4c1bd0a9b03c749ea011b06c6d2676c8091a70c/bin/helpers/browser.sh'
+}
+[16:19:49] Extracted extension to /home/ubuntu/.vscode-server/extensions/.69a4eb2f-3b78-4418-9651-3d83213116cb: ms-python.vscode-pylance
+[16:19:49] Renamed to /home/ubuntu/.vscode-server/extensions/ms-python.vscode-pylance-2021.7.2
+[16:19:49] Installation completed. ms-python.vscode-pylance
+[16:19:49] Extensions installed successfully: ms-python.vscode-pylance

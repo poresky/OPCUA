@@ -1,0 +1,26 @@
+Looking for git in: git
+Using git 2.25.1 from git
+> git rev-parse --git-dir
+Open repository: /home/ubuntu/ChrisServer
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git show --textconv :open62541/build/authenticationServer.c
+> git show --textconv :open62541/examples/access_control/server_access_control.c
+> git ls-files --stage -- /home/ubuntu/ChrisServer/open62541/build/authenticationServer.c
+> git ls-files --stage -- /home/ubuntu/ChrisServer/open62541/examples/access_control/server_access_control.c
+> git show --textconv :open62541/tools/nodeset_compiler/ARCOModel.xml
+> git ls-files --stage -- /home/ubuntu/ChrisServer/open62541/tools/nodeset_compiler/ARCOModel.xml
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git show --textconv :open62541/build/authenticationServer.c
+> git ls-files --stage -- /home/ubuntu/ChrisServer/open62541/build/authenticationServer.c
+> git show --textconv :open62541/examples/access_control/server_access_control.c
+> git ls-files --stage -- /home/ubuntu/ChrisServer/open62541/examples/access_control/server_access_control.c
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin

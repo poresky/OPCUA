@@ -1,0 +1,19 @@
+User belongs to experiment group 'pythonJediLSP'
+User belongs to experiment group 'jupyterTestcf'
+User belongs to experiment group 'pythonDiscoveryModulecf'
+User belongs to experiment group 'pythonSurveyNotification'
+User belongs to experiment group 'jupyterEnhancedDataViewer'
+Info 2021-05-13 22:11:36: ZMQ install verified.
+Info 2021-05-13 22:11:36: id is 616ca69a-e80a-46aa-a766-22037e3a31e8
+Info 2021-05-13 22:11:37: Found existing keyfile at /home/ubuntu/.vscode-server/data/User/globalStorage/ms-toolsai.jupyter/nbsecret
+Info 2021-05-13 22:38:11: Shutting down notebooks for 01fd8eb1-731a-4d45-bfe9-57b3c9c645e2
+Info 2021-05-13 22:38:11: Disposing HostJupyterExecution 09afe366-eb2f-4c33-b201-fc5f354ef8ce
+Info 2021-05-13 22:38:11: Disposing super HostJupyterExecution 09afe366-eb2f-4c33-b201-fc5f354ef8ce
+Info 2021-05-13 22:38:11: Disposing HostJupyterExecution 09afe366-eb2f-4c33-b201-fc5f354ef8ce
+Info 2021-05-13 22:38:11: Finished disposing HostJupyterExecution  09afe366-eb2f-4c33-b201-fc5f354ef8ce
+Info 2021-05-13 22:38:11: Disposing HostJupyterExecution 09afe366-eb2f-4c33-b201-fc5f354ef8ce
+Info 2021-05-13 22:38:11: Finished disposing HostJupyterExecution  09afe366-eb2f-4c33-b201-fc5f354ef8ce
+Info 2021-05-13 22:38:11: Getting live share API during dispose HostJupyterExecution 09afe366-eb2f-4c33-b201-fc5f354ef8ce
+Info 2021-05-13 22:38:11: Detaching HostJupyterExecution 09afe366-eb2f-4c33-b201-fc5f354ef8ce
+Info 2021-05-13 22:38:11: Cleaning up server cache 09afe366-eb2f-4c33-b201-fc5f354ef8ce
+Info 2021-05-13 22:38:11: Finished disposing HostJupyterExecution  09afe366-eb2f-4c33-b201-fc5f354ef8ce

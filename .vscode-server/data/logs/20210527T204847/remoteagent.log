@@ -1,0 +1,30 @@
+[2021-05-27 20:48:47.988] [remoteagent] [info] 
+
+*
+* Visual Studio Code Server
+*
+* Reminder: You may only use this software with Visual Studio family products,
+* as described in the license https://aka.ms/vscode-remote/license
+*
+
+
+[2021-05-27 20:48:47.988] [remoteagent] [info] Extension host agent started.
+[2021-05-27 20:48:48.415] [remoteagent] [info] [127.0.0.1][512770a0][ManagementConnection] New connection established.
+[2021-05-27 20:48:48.416] [remoteagent] [info] [127.0.0.1][fc3382a8][ExtensionHostConnection] New connection established.
+[2021-05-27 20:48:48.564] [remoteagent] [info] [127.0.0.1][fc3382a8][ExtensionHostConnection] <539222> Launched Extension Host Process.
+[2021-05-27 20:48:50.706] [remoteagent] [info] Installing extension: ms-python.vscode-pylance
+[2021-05-27 20:48:51.696] [remoteagent] [info] Downloaded extension: ms-python.vscode-pylance undefined
+[2021-05-27 20:48:55.149] [remoteagent] [info] Extracted extension to /home/ubuntu/.vscode-server/extensions/.643bfacc-2c5f-4d56-a02e-d48b8ed308c4: ms-python.vscode-pylance
+[2021-05-27 20:48:55.167] [remoteagent] [info] Renamed to /home/ubuntu/.vscode-server/extensions/ms-python.vscode-pylance-2021.5.4
+[2021-05-27 20:48:55.169] [remoteagent] [info] Installation completed. ms-python.vscode-pylance
+[2021-05-27 20:48:55.232] [remoteagent] [info] Extensions installed successfully: ms-python.vscode-pylance
+[2021-05-27 20:49:20.067] [remoteagent] [info] Installing extension: ms-vscode.cpptools
+[2021-05-27 20:49:20.530] [remoteagent] [info] Downloaded extension: ms-vscode.cpptools undefined
+[2021-05-27 20:49:20.985] [remoteagent] [info] Extracted extension to /home/ubuntu/.vscode-server/extensions/.4b3a2400-dc92-46ee-9133-61181660407e: ms-vscode.cpptools
+[2021-05-27 20:49:20.999] [remoteagent] [info] Renamed to /home/ubuntu/.vscode-server/extensions/ms-vscode.cpptools-1.3.1
+[2021-05-27 20:49:21.004] [remoteagent] [info] Installation completed. ms-vscode.cpptools
+[2021-05-27 20:49:21.010] [remoteagent] [info] Extensions installed successfully: ms-vscode.cpptools
+[2021-05-27 20:49:39.864] [remoteagent] [info] [127.0.0.1][512770a0][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[2021-05-27 20:49:40.909] [remoteagent] [info] [127.0.0.1][fc3382a8][ExtensionHostConnection] <539222> Extension Host Process exited with code: 0, signal: null.
+[2021-05-27 20:49:40.910] [remoteagent] [info] Last EH closed, waiting before shutting down
+[2021-05-27 20:54:40.913] [remoteagent] [info] Last EH closed, shutting down

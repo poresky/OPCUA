@@ -1,0 +1,98 @@
+[2021-05-27 20:49:49.849] [remoteagent] [info] 
+
+*
+* Visual Studio Code Server
+*
+* Reminder: You may only use this software with Visual Studio family products,
+* as described in the license https://aka.ms/vscode-remote/license
+*
+
+
+[2021-05-27 20:49:49.849] [remoteagent] [info] Extension host agent started.
+[2021-05-27 20:49:50.127] [remoteagent] [info] [127.0.0.1][b3a46623][ManagementConnection] New connection established.
+[2021-05-27 20:49:50.270] [remoteagent] [info] [127.0.0.1][eea12683][ExtensionHostConnection] New connection established.
+[2021-05-27 20:49:50.591] [remoteagent] [info] [127.0.0.1][eea12683][ExtensionHostConnection] <539665> Launched Extension Host Process.
+[2021-05-27 20:49:50.720] [remoteagent] [info] Deleted from disk ms-python.vscode-pylance /home/ubuntu/.vscode-server/extensions/ms-python.vscode-pylance-2021.5.3
+[2021-05-27 20:49:52.786] [remoteagent] [info] Installing extension: ms-toolsai.jupyter
+[2021-05-27 20:49:53.837] [remoteagent] [info] Downloaded extension: ms-toolsai.jupyter /home/ubuntu/.vscode-server/data/CachedExtensionVSIXs/ms-toolsai.jupyter-2021.6.832593372
+[2021-05-27 20:49:56.856] [remoteagent] [info] Extracted extension to /home/ubuntu/.vscode-server/extensions/.ba8a03c9-f1d5-4247-a6f0-d62b13321292: ms-toolsai.jupyter
+[2021-05-27 20:49:56.909] [remoteagent] [info] Renamed to /home/ubuntu/.vscode-server/extensions/ms-toolsai.jupyter-2021.6.832593372
+[2021-05-27 20:49:56.912] [remoteagent] [info] Installation completed. ms-toolsai.jupyter
+[2021-05-27 20:49:56.928] [remoteagent] [info] Extensions installed successfully: ms-toolsai.jupyter
+[2021-05-27 21:23:48.006] [remoteagent] [info] [127.0.0.1][b3a46623][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[2021-05-27 21:23:49.056] [remoteagent] [info] [127.0.0.1][eea12683][ExtensionHostConnection] <539665> Extension Host Process exited with code: 0, signal: null.
+[2021-05-27 21:23:49.056] [remoteagent] [info] Last EH closed, waiting before shutting down
+[2021-05-27 21:23:51.668] [remoteagent] [info] Got delay-shutdown request while in shutdown timeout, delaying
+[2021-05-27 21:23:51.668] [remoteagent] [info] Cancelling previous shutdown timeout
+[2021-05-27 21:23:51.834] [remoteagent] [info] [127.0.0.1][b6105fb7][ManagementConnection] New connection established.
+[2021-05-27 21:23:51.940] [remoteagent] [info] [127.0.0.1][f2393e87][ExtensionHostConnection] New connection established.
+[2021-05-27 21:23:51.946] [remoteagent] [info] [127.0.0.1][f2393e87][ExtensionHostConnection] <540411> Launched Extension Host Process.
+[2021-05-27 21:28:51.669] [remoteagent] [info] New EH opened, aborting shutdown
+[2021-05-27 21:55:30.508] [remoteagent] [info] [127.0.0.1][b6105fb7][ManagementConnection] The client has disconnected, will wait for reconnection 3h before disposing...
+[2021-05-27 22:45:02.923] [remoteagent] [info] [127.0.0.1][b6105fb7][ManagementConnection] Another client has connected, will shorten the wait for reconnection 5m before disposing...
+[2021-05-27 22:45:02.924] [remoteagent] [info] [127.0.0.1][ccf85d67][ManagementConnection] New connection established.
+[2021-05-27 22:45:03.128] [remoteagent] [info] [127.0.0.1][fe057036][ExtensionHostConnection] New connection established.
+[2021-05-27 22:45:03.145] [remoteagent] [info] [127.0.0.1][fe057036][ExtensionHostConnection] <541062> Launched Extension Host Process.
+[2021-05-27 22:45:54.730] [remoteagent] [info] [127.0.0.1][ccf85d67][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[2021-05-27 22:45:55.752] [remoteagent] [info] [127.0.0.1][fe057036][ExtensionHostConnection] <541062> Extension Host Process exited with code: 0, signal: null.
+[2021-05-27 22:45:58.312] [remoteagent] [info] [127.0.0.1][e3f00b0c][ManagementConnection] New connection established.
+[2021-05-27 22:45:58.509] [remoteagent] [info] [127.0.0.1][c9e17279][ExtensionHostConnection] New connection established.
+[2021-05-27 22:45:58.513] [remoteagent] [info] [127.0.0.1][c9e17279][ExtensionHostConnection] <541227> Launched Extension Host Process.
+[2021-05-27 22:47:39.878] [remoteagent] [warning] No ptyHost heartbeat after 6 seconds
+[2021-05-27 23:04:25.073] [remoteagent] [warning] No ptyHost heartbeat after 6 seconds
+[2021-05-27 23:05:53.385] [remoteagent] [info] [127.0.0.1][b6105fb7][ManagementConnection] The reconnection short grace time of 5m has expired, so the connection will be disposed.
+[2021-05-27 23:06:00.507] [remoteagent] [info] [127.0.0.1][e3f00b0c][ManagementConnection] The client has disconnected, will wait for reconnection 3h before disposing...
+[2021-05-27 23:06:03.338] [remoteagent] [info] [127.0.0.1][f2393e87][ExtensionHostConnection] <540411> Extension Host Process exited with code: 0, signal: null.
+[2021-05-27 23:06:22.712] [remoteagent] [info] [127.0.0.1][e3f00b0c][ManagementConnection] Another client has connected, will shorten the wait for reconnection 5m before disposing...
+[2021-05-27 23:06:22.712] [remoteagent] [info] [127.0.0.1][a6bab0bc][ManagementConnection] New connection established.
+[2021-05-27 23:06:22.810] [remoteagent] [info] [127.0.0.1][e1fed9b9][ExtensionHostConnection] New connection established.
+[2021-05-27 23:06:22.817] [remoteagent] [info] [127.0.0.1][e1fed9b9][ExtensionHostConnection] <541749> Launched Extension Host Process.
+[2021-05-27 23:06:34.896] [remoteagent] [info] [127.0.0.1][a6bab0bc][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[2021-05-27 23:06:35.909] [remoteagent] [info] [127.0.0.1][e1fed9b9][ExtensionHostConnection] <541749> Extension Host Process exited with code: 0, signal: null.
+[2021-05-27 23:06:38.880] [remoteagent] [info] [127.0.0.1][72a241de][ManagementConnection] New connection established.
+[2021-05-27 23:06:38.992] [remoteagent] [info] [127.0.0.1][6d8e0eb9][ExtensionHostConnection] New connection established.
+[2021-05-27 23:06:38.995] [remoteagent] [info] [127.0.0.1][6d8e0eb9][ExtensionHostConnection] <541915> Launched Extension Host Process.
+[2021-05-27 23:10:44.484] [remoteagent] [warning] No ptyHost heartbeat after 6 seconds
+[2021-05-27 23:11:30.090] [remoteagent] [info] [127.0.0.1][e3f00b0c][ManagementConnection] The reconnection short grace time of 5m has expired, so the connection will be disposed.
+[2021-05-27 23:11:59.173] [remoteagent] [info] [127.0.0.1][c9e17279][ExtensionHostConnection] <541227> Extension Host Process exited with code: 0, signal: null.
+[2021-05-27 23:12:00.808] [remoteagent] [info] [127.0.0.1][72a241de][ManagementConnection] The client has reconnected.
+[2021-05-27 23:12:00.909] [remoteagent] [info] [127.0.0.1][6d8e0eb9][ExtensionHostConnection] The client has reconnected.
+[2021-05-27 23:54:36.028] [remoteagent] [info] [127.0.0.1][72a241de][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[2021-05-27 23:54:37.068] [remoteagent] [info] [127.0.0.1][6d8e0eb9][ExtensionHostConnection] <541915> Extension Host Process exited with code: 0, signal: null.
+[2021-05-27 23:54:37.068] [remoteagent] [info] Last EH closed, waiting before shutting down
+[2021-05-27 23:54:38.968] [remoteagent] [info] Got delay-shutdown request while in shutdown timeout, delaying
+[2021-05-27 23:54:38.968] [remoteagent] [info] Cancelling previous shutdown timeout
+[2021-05-27 23:54:39.114] [remoteagent] [info] [127.0.0.1][6d655b1a][ManagementConnection] New connection established.
+[2021-05-27 23:54:39.202] [remoteagent] [info] [127.0.0.1][799eeb84][ExtensionHostConnection] New connection established.
+[2021-05-27 23:54:39.207] [remoteagent] [info] [127.0.0.1][799eeb84][ExtensionHostConnection] <543296> Launched Extension Host Process.
+[2021-05-27 23:54:55.554] [remoteagent] [info] [127.0.0.1][6d655b1a][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[2021-05-27 23:54:56.576] [remoteagent] [info] [127.0.0.1][799eeb84][ExtensionHostConnection] <543296> Extension Host Process exited with code: 0, signal: null.
+[2021-05-27 23:54:56.576] [remoteagent] [info] Cancelling previous shutdown timeout
+[2021-05-27 23:54:56.576] [remoteagent] [info] Last EH closed, waiting before shutting down
+[2021-05-27 23:54:58.023] [remoteagent] [info] Got delay-shutdown request while in shutdown timeout, delaying
+[2021-05-27 23:54:58.023] [remoteagent] [info] Cancelling previous shutdown timeout
+[2021-05-27 23:54:58.169] [remoteagent] [info] [127.0.0.1][64334bab][ManagementConnection] New connection established.
+[2021-05-27 23:54:58.259] [remoteagent] [info] [127.0.0.1][3add2c6e][ExtensionHostConnection] New connection established.
+[2021-05-27 23:54:58.275] [remoteagent] [info] [127.0.0.1][3add2c6e][ExtensionHostConnection] <543622> Launched Extension Host Process.
+[2021-05-27 23:55:03.004] [remoteagent] [warning] [File Watcher (chokidar)] Error: Circular symlink detected: "/home/ubuntu/.wine/drive_c/users/ubuntu/Downloads" points to "/home/ubuntu"
+[2021-05-27 23:55:04.291] [remoteagent] [warning] [File Watcher (chokidar)] Error: Circular symlink detected: "/usr/bin/X11" points to "/usr/bin"
+[2021-05-27 23:55:06.051] [remoteagent] [error] [File Watcher (chokidar)] Inotify limit reached (ENOSPC)
+[2021-05-28 00:01:23.619] [remoteagent] [info] New EH opened, aborting shutdown
+[2021-05-28 00:03:08.118] [remoteagent] [warning] No ptyHost heartbeat after 6 seconds
+[2021-05-28 00:08:43.115] [remoteagent] [warning] No ptyHost heartbeat after 6 seconds
+[2021-05-28 00:21:24.685] [remoteagent] [warning] No ptyHost heartbeat after 6 seconds
+[2021-05-28 00:31:34.732] [remoteagent] [warning] No ptyHost heartbeat after 6 seconds
+[2021-05-28 00:36:13.666] [remoteagent] [info] [127.0.0.1][64334bab][ManagementConnection] The client has disconnected, will wait for reconnection 3h before disposing...
+[2021-05-28 00:36:16.770] [remoteagent] [warning] No ptyHost heartbeat after 6 seconds
+[2021-05-28 00:37:41.745] [remoteagent] [warning] No ptyHost heartbeat after 6 seconds
+[2021-05-28 00:39:17.957] [remoteagent] [warning] No ptyHost heartbeat after 6 seconds
+[2021-05-28 00:40:42.250] [remoteagent] [warning] No ptyHost heartbeat after 6 seconds
+[2021-05-28 00:42:43.869] [remoteagent] [warning] No ptyHost heartbeat after 6 seconds
+[2021-05-28 00:44:12.649] [remoteagent] [warning] No ptyHost heartbeat after 6 seconds
+[2021-05-28 00:44:59.225] [remoteagent] [warning] No ptyHost heartbeat after 6 seconds
+[2021-05-28 00:46:16.561] [remoteagent] [warning] No ptyHost heartbeat after 6 seconds
+[2021-05-28 00:46:53.993] [remoteagent] [warning] No ptyHost heartbeat after 6 seconds
+[2021-05-28 00:47:19.384] [remoteagent] [error] No ptyHost heartbeat after 12 seconds
+[2021-05-28 03:06:54.457] [remoteagent] [info] [127.0.0.1][3add2c6e][ExtensionHostConnection] <543622> Extension Host Process exited with code: null, signal: SIGKILL.
+[2021-05-28 03:06:54.458] [remoteagent] [info] Last EH closed, waiting before shutting down
+[2021-05-28 03:11:54.458] [remoteagent] [info] Last EH closed, shutting down

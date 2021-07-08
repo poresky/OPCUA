@@ -1,0 +1,20 @@
+[2021-05-20 22:53:32.965] [remoteagent] [info] 
+
+*
+* Visual Studio Code Server
+*
+* Reminder: You may only use this software with Visual Studio family products,
+* as described in the license https://aka.ms/vscode-remote/license
+*
+
+
+[2021-05-20 22:53:32.965] [remoteagent] [info] Extension host agent started.
+[2021-05-20 22:53:33.349] [remoteagent] [info] [127.0.0.1][465b9842][ManagementConnection] New connection established.
+[2021-05-20 22:53:33.800] [remoteagent] [info] [127.0.0.1][5ff0f903][ExtensionHostConnection] New connection established.
+[2021-05-20 22:53:34.038] [remoteagent] [info] [127.0.0.1][5ff0f903][ExtensionHostConnection] <493863> Launched Extension Host Process.
+[2021-05-20 22:53:34.926] [remoteagent] [info] Deleted from disk ms-python.vscode-pylance /home/ubuntu/.vscode-server/extensions/ms-python.vscode-pylance-2021.5.2
+[2021-05-20 22:53:35.034] [remoteagent] [info] Deleted from disk ms-python.python /home/ubuntu/.vscode-server/extensions/ms-python.python-2021.5.829140558
+[2021-05-20 23:15:03.913] [remoteagent] [info] [127.0.0.1][465b9842][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[2021-05-20 23:15:04.947] [remoteagent] [info] [127.0.0.1][5ff0f903][ExtensionHostConnection] <493863> Extension Host Process exited with code: 0, signal: null.
+[2021-05-20 23:15:04.947] [remoteagent] [info] Last EH closed, waiting before shutting down
+[2021-05-20 23:20:04.949] [remoteagent] [info] Last EH closed, shutting down
