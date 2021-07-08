@@ -394,3 +394,29 @@ gcc ARCOModel.c open62541.c authenticationServer.c -DUA_ENABLE_AMALGAMATION=true
 echo | gcc -E -Wp,-v -
 gcc ARCOModel.c open62541.c authenticationServer.c -DUA_ENABLE_AMALGAMATION=true -DUA_BUILD_SELFSIGNED_CERTIFICATE=true -o authARCOServer
 ls
+git remote add origin https://github.com/poresky/OPCUA.git
+git branch -M main
+git push -u origin mainecho "# OPCUA" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/poresky/OPCUA.git
+git push -u origin main
+ls
+git push -u origin main
+git add .
+git submodule add ChrisServer
+ls
+git commit
+git push -u origin main
+git diff
+git diff --cached
+git diff
+git push
+cd ChrisServer
+ls
+cd open62541
+ls
+cd build
+ls
